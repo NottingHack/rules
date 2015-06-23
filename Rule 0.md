@@ -13,5 +13,5 @@
 * Weapons, explosives and bio-hazards should not be brought to the space for hacking.
 * Nottingham Hackspace DO NOT approve of any illegal actions.
 * Do nothing to endanger yourself or others.
-* Do NOT dick around with tools, electricity, fire or anything else that could be expected to hurt or damage yourself or other people.
+* Do NOT mess around with tools, electricity, fire or anything else that could be expected to hurt or damage yourself or other people.
 * Do NOT assume that the Hackspace is insured against YOUR stupidity.

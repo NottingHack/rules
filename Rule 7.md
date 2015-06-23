@@ -1,8 +1,8 @@
 # The Space is Not For Sleeping
 
-Under the terms of our lease and attendant fire regulations, the space is not for overnight sleeping. Additionally, some hackspaces such as London have had problems with so-called hobo-hackers being abusive, leading to a ban on sleeping at those spaces.
+Under the terms of our lease and attendant fire regulations, the space is not for overnight sleeping. 
 
-We ask that you plan your visits to avoid sleeping at the space. Working overnight is fine though, so long as we have 24h access.
+We ask that you plan your visits to avoid sleeping at the space. Working overnight is fine though, as we have 24/7 access.
 
 Even if someone does fall asleep in the hackspace, no person should ever expect that their taking a nap in any way takes precedence over other people working. Projects take precedence at all times of the day, so even if anyone has accidentally fallen asleep, as a paid up member you should feel free to type, machine, stride around and make noise to your heart’s content. People are habituated to be considerate to sleepers in domestic environments. This does not apply at the Hackspace, and nobody should ever feel awkward or apologetic when making noise near a sleeper. If you have fallen asleep in the space, it's only the waking members that are keeping you safe.
 

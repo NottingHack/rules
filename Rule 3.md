@@ -1,6 +1,6 @@
 # Talk is Cheap
 
-Rule 3 is becoming an important part of the culture of Nottingham Hackspace.
+Rule 3 is an important part of the culture of Nottingham Hackspace.
 
 Talk is very cheap, and hackers love to gabble about stuff, and speculate on the directions a project could go in. Before you can say "Gantt chart", a relatively simple and practical project suddenly morphs into a massive technical specification for something that will, say, automatically display a tiny superfluous lolcat while performing its actual intended function. The person who just wants to get on with it may feel paralysed by the intentions and ambitions of others. The Bikeshed Anti-Pattern is a good explanation of the problem.
 
