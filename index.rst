@@ -3,33 +3,44 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Nottingham Hackspace Rules's
-=======================================
+Nottingham Hackspace Rules's
+============================
 
 Welcome to the Nottingham Hackspace Rules. This contains the rules to which every member and guest of the space is expected to follow.
 
-Below is a summary of the rules, each has its own full description in the linked pages.
+Below is a summary of the rules, each has its own full description that can be accessed via the menu on the left.
 
-Contents:
+
+1. Rule 0: Do Not Be On Fire
+    It is essential you use the space safely as a responsible adult.
+2. Membership of the Hackspace
+    We ask that you gauge your membership by putting more back into the Hackspace than you take out in use. **The hackspace costs an average of £4.34 per hour to run**.
+3. Guests & Visitors
+    Guests & Visitors are **welcome in the Hackspace**, however whoever brings them into the space or lets them into the space is **wholly responsible for them**.
+3. Be Excellent To One Another
+    We ask that you respect others when using the Hackspace. Do this by **cleaning up after yourself**, abiding by our **safe spaces**[#]_ policy and **code of conduct**[#]_.
+5. Respect the Hackspace
+    We ask that you respect the Hackspace. Do this by **cleaning up after yourself**, by being careful not to **damage infrastructure** and by **reporting both damaged/broken tools and infrastructure**.
+6. Do Not Hack
+    Do Not Hack is an integral part of the Hackspace. <This doesnt not explain what DNH is>
+7. Abiding by UK Law
+    <need a brief here>
+8. Storage in the Hackspace
+    Remember that the **Hackspace has limited storage space**. We have designated storage space for **consumables, resources** and **members’ storage**.
+9. Donating to the Hackspace
+    **Consider the benefit to the Hackspace** when making a donation. Do this by posting your items and offers to the Google Group. Is there a general consensus from the members about its use or usefulness?
 
 .. toctree::
-   :maxdepth: 2
+    :numbered:
+    :hidden:
+    :maxdepth: 2
 
-   do-not-be-on-fire
-   membership-of-the-hackspace
-   guests-and-visitors
-   be-excellent-to-one-another
-   respect-the-hackspace
-   do-not-hack
-   abiding-by-UK-law
-   storage-in-the-hackspace
-   donating-to-the-hackspace
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+    do-not-be-on-fire
+    membership-of-the-hackspace
+    guests-and-visitors
+    be-excellent-to-one-another
+    respect-the-hackspace
+    do-not-hack
+    abiding-by-UK-law
+    storage-in-the-hackspace
+    donating-to-the-hackspace

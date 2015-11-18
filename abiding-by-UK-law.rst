@@ -1,6 +1,8 @@
 Abiding by UK Law
 =================
 
+<need a brief here>
+
 Whilst in the Hackspace you must abide by all applicable UK laws.  This includes, but is not limited to:
 * Health & Safety at Work, etc Act 1974
 * Health Act 2006 - Smoking ban
