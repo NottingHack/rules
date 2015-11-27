@@ -1,9 +1,8 @@
 Abiding by UK Law
 =================
 
-<need a brief here>
-
 Whilst in the Hackspace you must abide by all applicable UK laws.  This includes, but is not limited to:
+
 * Health & Safety at Work, etc Act 1974
 * Health Act 2006 - Smoking ban
 * Illegal activity such as bringing explosives and offensive weaponry into the Hackspace
@@ -11,7 +10,7 @@ Whilst in the Hackspace you must abide by all applicable UK laws.  This includes
 
 Additionally we will, at times, go above and beyond current legislation if we feel it is appropriate.  For this reason, vaping (use of e-cigarettes) is not permitted inside the space.
 
-We also have some rules relating to our lease. Such as, **no sleeping in the space**, our **safe spaces**[#]_ policy and our **constitution**[#]_.
+We also have some rules relating to our lease. Such as, **no sleeping in the space**, our **safe spaces** [#]_ policy and our **constitution** [#]_.
 
 We ask that you make yourself aware of these policies.
 

@@ -17,7 +17,7 @@ If you wish to comment these rules please either open a `issue <https://github.c
 Building Locally
 ================
 
-You will need pyton and to install the following dependencies
+You will need python and to install the following dependencies
 
 .. code:: bash
 
@@ -34,7 +34,7 @@ and open the index page at
 
 .. code::
 
-_buld/html/index.html
+./build/html/index.html
 
 .. |docs| image:: https://readthedocs.org/projects/nottingham-hackspace-rules/badge/?version=latest
 :target: https://readthedocs.org/projects/nottingham-hackspace-rules/?badge=latest

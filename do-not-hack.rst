@@ -1,7 +1,7 @@
 Do Not Hack
 ===========
 
-Do Not Hack is an integral part of the Hackspace. <This doesnt not explain what DNH is>
+Do Not Hack is an integral part of the Hackspace. <This doesn't not explain what DNH is>
 
 When labelling something with Do Not Hack your label must include:
 * Name

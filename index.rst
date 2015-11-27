@@ -14,17 +14,17 @@ Below is a summary of the rules, each has its own full description that can be a
 1. Rule 0: Do Not Be On Fire
     It is essential you use the space safely as a responsible adult.
 2. Membership of the Hackspace
-    We ask that you gauge your membership by putting more back into the Hackspace than you take out in use. **The hackspace costs an average of £4.34 per hour to run**.
+    Any person of the age of 18 can join the hackspace, by visiting on a open night, providing correct details and setting up and maintaining a monthly payment into our nominated bank account.
 3. Guests & Visitors
     Guests & Visitors are **welcome in the Hackspace**, however whoever brings them into the space or lets them into the space is **wholly responsible for them**.
 3. Be Excellent To One Another
-    We ask that you respect others when using the Hackspace. Do this by **cleaning up after yourself**, abiding by our **safe spaces**[#]_ policy and **code of conduct**[#]_.
+    We ask that you respect others when using the Hackspace. Do this by **cleaning up after yourself**, abiding by our **safe spaces** policy and **code of conduct**.
 5. Respect the Hackspace
     We ask that you respect the Hackspace. Do this by **cleaning up after yourself**, by being careful not to **damage infrastructure** and by **reporting both damaged/broken tools and infrastructure**.
 6. Do Not Hack
-    Do Not Hack is an integral part of the Hackspace. <This doesnt not explain what DNH is>
+    Do Not Hack is an integral part of the Hackspace. <This doesn't not explain what DNH is>
 7. Abiding by UK Law
-    <need a brief here>
+    Whilst in the Hackspace you must abide by all applicable UK laws
 8. Storage in the Hackspace
     Remember that the **Hackspace has limited storage space**. We have designated storage space for **consumables, resources** and **members’ storage**.
 9. Donating to the Hackspace
