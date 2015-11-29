@@ -3,17 +3,15 @@ Membership of the Hackspace
 
 Any person of the age of 18 can join the hackspace, by visiting on a open night, providing correct details and setting up and maintaining a monthly payment into our nominated bank account.
 
-The amount you pay into the Hackspace is your own choice, however we ask that you contribute more than you take away, for information: **The average costs per hour to run the hackspace can be seen `here <http://cost.of.hacking.link>`_ ** on our Cost of hacking page.
-
-We ask that you gauge your membership by putting more back into the Hackspace than you take out in use. **The hackspace costs an average of £4.34 per hour to run**.
+The amount you pay into the Hackspace is your own choice, however we ask that you contribute more than you take away, for information; **the average costs per hour to run the hackspace can be seen `here <http://cost.of.hacking.link>`_ ** on our Cost of hacking page.
 
 Members who need to contribute more to the Hackspace may be asked to do so.
 
 Should you bring guests to the Hackspace regularly, please **ensure your membership fees cover their access** and usage of the Hackspace.
 
-<This still needs work in light of the abandoned things laws>
+When a member stops paying their standing order, they will become an Ex-Member. **An ex member will be provided notification of such**, and **their members box will be emptied** within 2 months of the last standing order payment. In order to abide by the Torts (Interference with Goods) Act 1977, all Ex-members with projects or gear in the Hackspace will be served with a letter sent to the postal address they have in HMS. 
 
-When a member stops paying their standing order, they will become an Ex-Member. **An ex member will be provided notification of such**, and **their members box will be emptied** within 2 months of the last standing order payment. This initial £5 is non refundable If you decide to no longer be a member, please empty your box first. The Hackspace will buy it back from you as long as it is undamaged.
+If you decide to no longer be a member, please empty your box first. The Hackspace will buy it back from you as long as it is undamaged, however if it is not reusable we will not buy it back off you.
 
 **Members must follow and agree to all rules**, and membership can be revoked through the grievance procedure.
 
@@ -22,8 +20,3 @@ Nottingham Hackspace Ltd is required under Companies Act [#]_ to keep a record o
 .. [#] http://www.legislation.gov.uk/ukpga/2006/46/contents
 .. [#] http://lspace.nottinghack.org.uk/hms
 .. [#] Some email providers have prolific spam filters which are triggered by the word “hack” and AOL is known to bounce all our email due to the word “Hack”
-
-
-Matt's notes:
-
-    abandoned things, notice served at end of there membership (2 months of non payment)
