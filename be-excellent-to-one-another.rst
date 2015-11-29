@@ -9,6 +9,6 @@ Please make yourself aware of our **grievance policy** [#]_.
 
 Remember that the Hackspace is run by the volunteers for the members, and we ask that you be a **member not a consumer**. Don’t be a greedy hacker.
 
-.. [#] Safe spaces policy link
-.. [#] code of conduct link
-.. [#] grievance policy link
+.. [#] Safe spaces Policy
+.. [#] Code of Conduct
+.. [#] Grievance Policy
