@@ -15,18 +15,4 @@ If you use the **spray booth**, you can of course leave your project to dry in t
 
 Chemicals, solvents and flammables must always be labelled and kept in appropriate, sealed containers. Flammable liquids (oils, solvents, cleaning fluids etc.) should be kept in the **solvents cupboard**.
 
-If you are bringing in solvents, they must be stored appropriately. This is in the members’ section of the **solvents cupboard**. Do not store solvents in your members box or on the Large Project Shelves.
-Solvents must be labelled appropriately and sealed appropriate. Store in appropriate containers (ideally the one it came in).
-
-You can find more information about bike storage here <link to wiki with below info>.
-
-In respect of our bike racks:
-
-You are welcome to use the racks to store your bike in the ‘space if:
-* You are hacking in the space and using the space
-* You want a safe place to leave your bike if you want to walk into town to shop/go to the cinema etc for a short period of time (ie, a morning or an afternoon)
-
-You should not be using the bike racks:
-* For storing a bike for more than a day
-* As storage for a project you’re working on
-* Whilst you go to work every day (Nottingham City Council operate Citycard Cycle Hubs for this purpose)
+You can find more information about bike storage here. (https://wiki.nottinghack.org.uk/wiki/Bike_Storage)
