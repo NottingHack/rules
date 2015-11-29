@@ -1,7 +1,11 @@
 Do Not Hack
 ===========
 
-Do Not Hack is an integral part of the Hackspace. <This doesn't not explain what DNH is>
+Do Not Hack is an integral part of the Hackspace. Do Not Hack means you are claiming materials, a donation or a project as your own, and requesting that no other members 'hack' the component parts.
+
+Do Not Hack means you are taking responsibility for the materials et al, and will remove them from the Hackspace if required.
+
+Do Not Hack is not a guarantee your project will not be touched, moved or repatriated. It is simply our best attempt at securing your project. If you leave a project or materials in the space and they are not stored appropriately or safely, your project will be moved.
 
 When labelling something with Do Not Hack your label must include:
 * Name
