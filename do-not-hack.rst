@@ -8,6 +8,7 @@ Do Not Hack means you are taking responsibility for the materials et al, and wil
 Do Not Hack is not a guarantee your project will not be touched, moved or repatriated. It is simply our best attempt at securing your project. If you leave a project or materials in the space and they are not stored appropriately or safely, your project will be moved.
 
 When labelling something with Do Not Hack your label must include:
+
 * Name
 * Description of project
 * Contact Email

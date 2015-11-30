@@ -9,6 +9,6 @@ Please make yourself aware of our **grievance policy** [#]_.
 
 Remember that the Hackspace is run by the volunteers for the members, and we ask that you be a **member not a consumer**. Don’t be a greedy hacker.
 
-.. [#] Safe spaces Policy
-.. [#] Code of Conduct
-.. [#] Grievance Policy
+.. [#] Safe spaces Policy http://nottinghack.org.uk/?page_id=1853
+.. [#] Code of Conduct https://wiki.nottinghack.org.uk/wiki/Code_of_Conduct
+.. [#] Grievance Policy https://wiki.nottinghack.org.uk/wiki/Grievance_Procedure

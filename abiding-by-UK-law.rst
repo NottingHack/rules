@@ -16,5 +16,5 @@ We ask that you make yourself aware of these policies.
 
 Property is left in the Hackspace at the owner’s risk, Nottingham Hackspace Ltd accepts no liability for lost or stolen items.
 
-.. [#] Safe spaces Policy
-.. [#] Constitution
+.. [#] Safe spaces Policy http://nottinghack.org.uk/?page_id=1853
+.. [#] Constitution https://wiki.nottinghack.org.uk/wiki/Constitution

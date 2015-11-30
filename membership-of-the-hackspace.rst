@@ -3,7 +3,7 @@ Membership of the Hackspace
 
 Any person of the age of 18 can join the hackspace, by visiting on a open night, providing correct details and setting up and maintaining a monthly payment into our nominated bank account.
 
-The amount you pay into the Hackspace is your own choice, however we ask that you contribute more than you take away, for information; **the average costs per hour to run the hackspace can be seen `here <http://cost.of.hacking.link>`_ ** on our Cost of hacking page.
+The amount you pay into the Hackspace is your own choice, however we ask that you contribute more than you take away, for information; **the average costs per hour to run the hackspace can be seen on our** `Cost of hacking page <http://nottinghack.org.uk/tools/costposter/>`_ .
 
 Members who need to contribute more to the Hackspace may be asked to do so.
 
@@ -17,6 +17,7 @@ If you decide to no longer be a member, please empty your box first. The Hackspa
 
 Nottingham Hackspace Ltd is required under Companies Act [#]_ to keep a record of all members legal name and current address. We use HMS (Hackspace Members System) website [#]_ to keep this information, it is very important that you keep this up-to-date, including your email address [#]_ for contact purpose
 
-.. [#] http://www.legislation.gov.uk/ukpga/2006/46/contents
-.. [#] http://lspace.nottinghack.org.uk/hms
+
+.. [#] Companies Act 2006 http://www.legislation.gov.uk/ukpga/2006/46/contents
+.. [#] Hackspace Members System http://lspace.nottinghack.org.uk/hms
 .. [#] Some email providers have prolific spam filters which are triggered by the word “hack” and AOL is known to bounce all our email due to the word “Hack”
