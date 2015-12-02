@@ -11,23 +11,23 @@ Welcome to the Nottingham Hackspace Rules. This contains the rules to which ever
 Below is a summary of the rules, each has its own full description that can be accessed via the menu on the left.
 
 
-1. Rule 0: Do Not Be On Fire
+0. Rule 0: Do Not Be On Fire
     It is essential you use the space safely as a responsible adult.
-2. Membership of the Hackspace
+1. Membership of the Hackspace
     Any person of the age of 18 can join the hackspace, by visiting on a open night, providing correct details and setting up and maintaining a monthly payment into our nominated bank account.
-3. Guests & Visitors
+2. Guests & Visitors
     Guests & visitors are **welcome in the Hackspace**, however whoever brings them into the space or lets them into the space is **wholly responsible for them**.
 3. Be Excellent To One Another
     We ask that you respect others when using the Hackspace. Do this by **cleaning up after yourself**, abiding by our **safe spaces** policy and **code of conduct**.
-5. Respect the Hackspace
+4. Respect the Hackspace
     We ask that you respect the Hackspace. Do this by **cleaning up after yourself**, by being careful not to **damage infrastructure** and by **reporting both damaged/broken tools and infrastructure**.
-6. Do Not Hack
+5. Do Not Hack
     Do Not Hack is an integral part of the Hackspace. Do Not Hack means you are claiming materials, a donation or a project as your own, and requesting that no other members 'hack' the component parts.
-7. Abiding by UK Law
+6. Abiding by UK Law
     Whilst in the Hackspace you must abide by all applicable UK laws.
-8. Storage in the Hackspace
+7. Storage in the Hackspace
     Remember that the **Hackspace has limited storage space**. We have designated storage space for **consumables, resources** and **members’ storage**.
-9. Donating to the Hackspace
+8. Donating to the Hackspace
     **Consider the benefit to the Hackspace** when making a donation. Do this by posting your items and offers to the Google Group. Is there a general consensus from the members about its use or usefulness?
 
 .. toctree::
