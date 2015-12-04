@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Nottingham Hackspace Rules
-==========================
+Nottingham Hackspace Rules - Draft
+==================================
 
 Welcome to the Nottingham Hackspace Rules. This contains the rules to which every member and guest of the space is expected to follow.
 
