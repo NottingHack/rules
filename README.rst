@@ -36,7 +36,6 @@ and open the index page at
 
 ./build/html/index.html
 
-.. |docs| image:: https://readthedocs.org/projects/nottingham-hackspace-rules/badge/?version=latest
-:target: https://readthedocs.org/projects/nottingham-hackspace-rules/?badge=latest
-:scale: 100%
+.. image:: https://readthedocs.org/projects/nottingham-hackspace-ruless/badge/?version=latest
+:target: http://rules.nottinghack.org.uk/en/latest/?badge=latest
 :alt: Documentation Status
