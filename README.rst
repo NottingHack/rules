@@ -38,7 +38,7 @@ Please keep each pull request fairly small - it should be one chanege to the rul
 Workflow for making suggestions
 -------------------------------
 
-If you have a suggestion that isn't quite a change, or you can't work out how to make changes, please raise an `issue <https://github.com/NottingHack/rules/issues>`_.
+If you have a suggestion that isn't quite a change, or you can't work out how to make changes, please raise an `issue <https://github.com/NottingHack/rules/issues>`_. An issue is generally to raise a point or start a discussion.
 
 Simply click 'New Issue' from that page, give it a title and a description, including as much detail as you can, and click 'Submit new issue'.
 
