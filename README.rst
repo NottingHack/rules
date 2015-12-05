@@ -16,7 +16,7 @@ For more info on the reStructuredText syntax please visit http://docutils.source
 
 The finsihed documents are built and hosted by Read The Docs http://readthedocs.org and are available at http://rules.nottinghack.org.uk.  When a change is merged into this GitHub repository, the documents are automatically regenerated and available at that site in a couple of minutes.
 
-We will use GitHub for contributions to the rules, using `issues <https://github.com/NottingHack/rules/issues>`_ for simple comments and suggestions if you don't want to get into the nitty gritty, and `pull requests <https://github.com/NottingHack/rules/pulls>`_ for more complex chnages.
+We will use GitHub for contributions to the rules, using `issues <https://github.com/NottingHack/rules/issues>`_ for simple comments and suggestions if you don't want to get into the nitty gritty, and `pull requests <https://github.com/NottingHack/rules/pulls>`_ for more complex changes.
 
 All members are welcome to do either, or none.  Both issues and pull requests have the functionality to allow you to comment on them, so please make your feelings known.
 
