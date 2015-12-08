@@ -1,7 +1,7 @@
 Rule 0: Do Not Be On Fire
 =========================
 
-It is essential you use the space safely as a responsible adult, if you feel like it.
+It is essential you use the space safely as a responsible adult, if you must.
 
 We encourage members to challenge **unsafe storage** by other members. If you do not feel comfortable challenging a member, we welcome emails to the safety@nottinghack.org.uk email address.
 
