@@ -15,7 +15,7 @@ If you decide to no longer be a member, please empty your box first. The Hackspa
 
 **Members must follow and agree to all rules**, and membership can be revoked through the grievance procedure.
 
-Nottingham Hackspace Ltd is required under Companies Act [#]_ to keep a record of all members legal name and current address. We use HMS (Hackspace Members System) website [#]_ to keep this information, it is very important that you keep this up-to-date, including your email address [#]_ for contact purpose
+Nottingham Hackspace Limited is required under Companies Act [#]_ to keep a record of all members legal name and current address. We use HMS (Hackspace Members System) website [#]_ to keep this information, it is very important that you keep this up-to-date, including your email address [#]_ for contact purpose
 
 
 .. [#] Companies Act 2006 http://www.legislation.gov.uk/ukpga/2006/46/contents
