@@ -1,9 +1,13 @@
 Guests & Visitors
 =================
 
-Guests & visitors are **welcome in the Hackspace**, however whoever brings them into the space or lets them into the space is **wholly responsible for them**.
+Guests & visitors are **welcome in the Hackspace**. 
 
-You should not let people into the space if you don’t know them, or are unsure if they are a member. If you do then you are responsible for them. Feel free to challenge people to authenticate to GateKeeper (by swiping their card against the door) if you don’t know that they are a member.
+The Member allowing a Guest or Visitor to enter the Hackspace is **wholly responsible for them for their entire visit**.
+
+You should not let people into the space if you don’t know them, or are unsure if they are a member. **If you do then you are responsible for them for their entire visit to the space.** 
+
+Encourage people to authenticate to GateKeeper (by swiping their RFID card against the door) if you don’t know that they are a member.  If Gatekeeper does not authenticate them you **do not have** to let the person in to the space.  Never feel obliged or intimidated to allow someone you do not know to be a member in to the space.  If they behave in a threatening or violent manner and you do not feel safe call for assistance from other members in the space or call the emergency services on 999.
 
 Included in this are both **children** and **animals** - it is common courtesy to ask on the Google Group before attending the Hackspace with either an animal or a child. The exception to this notification is on open days and nights - members should assume that animals or children may be present at those times.
 
@@ -13,4 +17,4 @@ Guests cannot use tools that require an induction, such as the laser cutter, Myf
 
 During Open Days and Open Evenings, all members should be aware that guests, children and animals may be roaming the Hackspace, and must be aware of this.
 
-Please remember that even guests should be challenged if you witness unsafe or rule breaking behaviour.
+Please remember that **anyone**, even guests, should be challenged if you witness unsafe or rule breaking behaviour.
