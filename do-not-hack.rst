@@ -1,7 +1,7 @@
 Do Not Hack
 ===========
 
-Do Not Hack is an integral part of the Hackspace. Do Not Hack means you are claiming materials, a donation or a project as your own, and requesting that no other members 'hack' the component parts.
+**Do Not Hack** is an integral part of the Hackspace. Do Not Hack means you are claiming materials, a donation or a project as your own, and requesting that no other members 'hack' the component parts.
 
 Do Not Hack means you are taking responsibility for the materials et al, and will remove them from the Hackspace if required.
 
