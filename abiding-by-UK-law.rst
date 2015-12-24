@@ -8,7 +8,7 @@ Whilst in the Hackspace you must abide by all applicable UK laws.  This includes
 * Illegal activity such as bringing explosives and offensive weaponry into the Hackspace
 * Mishandling of items covered by the Violent Crime Reduction Act 2006
 
-Additionally we will, at times, go above and beyond current legislation if we feel it is appropriate.  For this reason, vaping (use of e-cigarettes) is not permitted inside the space.
+Additionally we will, at times, go above and beyond current legislation if we feel it is appropriate.
 
 We also have some rules relating to our lease. Such as, **no sleeping in the space**, our **safe spaces** [#]_ policy and our **constitution** [#]_.
 
