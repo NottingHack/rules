@@ -31,16 +31,15 @@ Below is a summary of the rules, each has its own full description that can be a
     **Consider the benefit to the Hackspace** when making a donation. Do this by posting your items and offers to the Google Group. Is there a general consensus from the members about its use or usefulness?
 
 .. toctree::
-    :numbered:
     :hidden:
     :maxdepth: 2
 
-    do-not-be-on-fire
-    membership-of-the-hackspace
-    guests-and-visitors
-    be-excellent-to-one-another
-    respect-the-hackspace
-    do-not-hack
-    abiding-by-UK-law
-    storage-in-the-hackspace
-    donating-to-the-hackspace
+    Rule 0. Do Not Be On Fire <do-not-be-on-fire>
+    Rule 1. Membership of the Hackspace <membership-of-the-hackspace>
+    Rule 2. Guests & Visitors <guests-and-visitors>
+    Rule 3. Be Excellent to One Another <be-excellent-to-one-another>
+    Rule 4. Respect the Hackspace <respect-the-hackspace>
+    Rule 5. Do Not Hack <do-not-hack>
+    Rule 6. Abiding by UK Law <abiding-by-UK-law>
+    Rule 7. Storage in the Hackspace <storage-in-the-hackspace>
+    Rule 8. Donating to the Hackspace <donating-to-the-hackspace>
