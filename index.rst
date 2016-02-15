@@ -29,6 +29,10 @@ Below is a summary of the rules, each has its own full description that can be a
     Remember that the **Hackspace has limited storage space**. We have designated storage space for **consumables, resources** and **members’ storage**.
 8. Donating to the Hackspace
     **Consider the benefit to the Hackspace** when making a donation. Do this by posting your items and offers to the Google Group. Is there a general consensus from the members about its use or usefulness?
+
+Appendices
+----------
+
 A. Grievance Procedure
     This is the procedure followed by the Trustees when it unfortunately becomes necessary to consider disciplinary action against a member.
 B. SafeSpaces Policy
@@ -37,7 +41,7 @@ B. SafeSpaces Policy
 .. toctree::
     :hidden:
     :maxdepth: 2
-    
+
     Rule 0. Do Not Be On Fire <do-not-be-on-fire>
     Rule 1. Membership of the Hackspace <membership-of-the-hackspace>
     Rule 2. Guests & Visitors <guests-and-visitors>
