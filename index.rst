@@ -33,20 +33,19 @@ A. Grievance Procedure
     This is the procedure followed by the Trustees when it unfortunately becomes necessary to consider disciplinary action against a member.
 B. SafeSpaces Policy
     This policy sets out what behaviour is inappropriate in that it may amount to harassment.
-   
+
 .. toctree::
-    :numbered:
     :hidden:
     :maxdepth: 2
-
-    do-not-be-on-fire
-    membership-of-the-hackspace
-    guests-and-visitors
-    be-excellent-to-one-another
-    respect-the-hackspace
-    do-not-hack
-    abiding-by-UK-law
-    storage-in-the-hackspace
-    donating-to-the-hackspace
-    grievance-procedure
-    safespaces
+    
+    Rule 0. Do Not Be On Fire <do-not-be-on-fire>
+    Rule 1. Membership of the Hackspace <membership-of-the-hackspace>
+    Rule 2. Guests & Visitors <guests-and-visitors>
+    Rule 3. Be Excellent to One Another <be-excellent-to-one-another>
+    Rule 4. Respect the Hackspace <respect-the-hackspace>
+    Rule 5. Do Not Hack <do-not-hack>
+    Rule 6. Abiding by UK Law <abiding-by-UK-law>
+    Rule 7. Storage in the Hackspace <storage-in-the-hackspace>
+    Rule 8. Donating to the Hackspace <donating-to-the-hackspace>
+    Appendix A: Grievance Procedure <grievance-procedure>
+    Appendix B: SafeSpaces Policy <safespaces>
