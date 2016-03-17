@@ -37,4 +37,26 @@ Complaint Against a Member
 
 Complaints fall into this category if they are made directly against a member or members, or if a complaint is referred from the previous section.
 
+**If it is deemed necessary, a temporary ban from the space may be issued until the complaint is resolved. These must only be used in severe cases where other people are at risk of harm.**
 
+**FLOWCHART GOES HERE**
+
+Consequences
+------------
+
+Where a formal warning needs to be given, or a member needs to be banned, the following flow should be followed. In extreme cases, and with an N-1 Majority, the trustees can jump stages in this process, or decide on alternative consequences.
+
+In the case of Rule 0 violations especially, additional consequences such as required re-induction, or a short ban from certain tools, may be issued alongside a formal warning.
+
+Bans from tools or the space must be agreed by an N-1 Majority. A ban for a current member will trigger the process to remove the member as per section 4.4 of the `Constitution <https://wiki.nottinghack.org.uk/wiki/Constitution>`_.
+
+**FLOWCHART GOES HERE**
+
+Confidentially and Openness
+---------------------------
+
+Complaints are very delicate issues, so details of all complaints will be kept in the upmost confidence. The trustees cannot, and will not try, to stop a complainant from discussing their complaint with their friends, but the trustees will not discuss with anyone outside of the trustees and involved parties. Additionally, a trustee who makes a complaint will treat that complaint as if they received it fro the purposes of confidentially.
+
+The trustees will, however, endevour to release as many details as is possible, and at the very least will keep a count of complaints and a list of current warnings on the `wiki <>`_ **NEEDS NEW LINK**
+
+Finally, the trustees may choose not to share a complaint with the subject of that complaint if they deem the complaint to be without merit. The complainant will be informed of this fact.
