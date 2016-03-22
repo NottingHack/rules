@@ -52,5 +52,5 @@ B. SafeSpaces Policy
     Rule 6. Abiding by UK Law <abiding-by-UK-law>
     Rule 7. Storage in the Hackspace <storage-in-the-hackspace>
     Rule 8. Donating to the Hackspace <donating-to-the-hackspace>
-    Appendix A: Grievance Procedure <grievance-procedure>
+    Appendix A: Complaints Policy <complaints-policy>
     Appendix B: SafeSpaces Policy <safespaces>
