@@ -7,7 +7,7 @@ We encourage members to challenge **unsafe storage** by other members. If you do
 
 Wearing **safety gear** at the Hackspace is your own responsibility. We will provide appropriate Personal Protective Equipment (PPE), and we ask if you notice any low supplies please email safety@nottinghack.org.uk.
 
-We encourage the **safe use of tools**.  For tools requiring an induction the inductor will verify that you have undertaken an induction in line with the requirements for that specific tool.  Use of a tool requiring an induction is expressly forbidden unless there is a record of your induction on HMS; where possible this will be maintained via RFID access.  For all tools, including those you have attended an induction for, you must self certify that you are comfortable using the tool.
+We encourage the **safe use of tools**. For tools requiring an induction the inductor will verify that you have undertaken an induction in line with the requirements for that specific tool. Use of a tool requiring an induction is expressly forbidden unless there is a record of your induction; where possible this will be maintained on HMS and via RFID access. Usage of any tool self certifies that you are comfortable using the tool.
 
 The Hackspace abides by **The Health & Safety at Work Act**, and points out that you also have responsibilities under this legislation, such as taking reasonable care of others’ safety when operating tools and machinery.
 
