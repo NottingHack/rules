@@ -1,9 +1,9 @@
 Guests & Visitors
 =================
 
-Guests & visitors are **welcome in the Hackspace**, however whoever brings them into the space or lets them into the space is **wholly responsible for them**.
+Guests & visitors are **welcome in the Hackspace**.
 
-You should not let people into the space if you don’t know them, or are unsure if they are a member. If you do then you are responsible for them. Feel free to challenge people to authenticate to GateKeeper (by swiping their card against the door) if you don’t know that they are a member.
+You should not let people into the space if you don't know them, or are unsure if they are a member. If you do then they become your guest and you are responsible for them. Feel free to challenge people to authenticate to GateKeeper (by swiping their card against the door) if you don't know that they are a member.
 
 Included in this are both **children** and **animals** - it is common courtesy to ask on the Google Group before attending the Hackspace with either an animal or a child. The exception to this notification is on open days and nights - members should assume that animals or children may be present at those times.
 
