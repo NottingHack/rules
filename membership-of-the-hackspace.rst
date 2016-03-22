@@ -3,7 +3,7 @@ Membership of the Hackspace
 
 Any person of the age of 18 or over can join the hackspace, by visiting on a open night, providing correct details and setting up and maintaining a monthly payment into our nominated bank account.
 
-The amount you pay into Nottinghack is your own choice, however we ask that you contribute more than you take away, for information; **the average costs per hour to run the hackspace can be seen on our** `Cost of hacking page <http://nottinghack.org.uk/tools/costposter/>`_ .
+The amount you pay into Nottinghack is your own choice, however we ask that you contribute more than you take away. For information **the average costs per hour to run the hackspace can be seen on our** `Cost of hacking page <http://nottinghack.org.uk/tools/costposter/>`_ .
 
 Members who need to contribute more to Nottinghack may be asked to do so.
 
