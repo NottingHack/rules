@@ -52,10 +52,10 @@ Bans from tools or the space must be agreed by an N-1 Majority. A ban for a curr
 
 **FLOWCHART GOES HERE**
 
-Confidentially and Openness
----------------------------
+Confidentiality and Openness
+----------------------------
 
-Complaints are very delicate issues, so details of all complaints will be kept in the upmost confidence. The trustees cannot, and will not try, to stop a complainant from discussing their complaint with their friends, but the trustees will not discuss with anyone outside of the trustees and involved parties. Additionally, a trustee who makes a complaint will treat that complaint as if they received it fro the purposes of confidentially.
+Complaints are very delicate issues, so details of all complaints will be kept in the upmost confidence. The trustees cannot, and will not try, to stop a complainant from discussing their complaint with their friends, but the trustees will not discuss with anyone outside of the trustees and involved parties. Additionally, a trustee who makes a complaint will treat that complaint as if they received it for the purposes of confidentiality.
 
 The trustees will, however, endevour to release as many details as is possible, and at the very least will keep a count of complaints and a list of current warnings on the `wiki <>`_ **NEEDS NEW LINK**
 
