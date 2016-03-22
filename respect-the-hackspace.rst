@@ -12,3 +12,5 @@ We remind you that whilst we have no issue with you using the tools and the Hack
 We **do not** guarantee uptime on tools at the Hackspace.
 
 We ask that you **do not arrange deliveries** to the Hackspace, as there is no delivery access for the building.
+
+Part of respect for the space includes not doing anything in the space that would put the space or other members at risk of loss or punishment; for the avoidance of doubt this includes obeying all uk laws when in the space.
