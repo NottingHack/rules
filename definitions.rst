@@ -1,7 +1,7 @@
 Definitions
 ===========
 
-The following definitions are used throughout the rules. Where these definition differ from those laid down in the `Constitution <https://wiki.nottinghack.org.uk/wiki/Constitution>`_, the definition from the Constitution will be used.
+The following definitions are used throughout the rules. Where these definitions differ from those laid down in the `Constitution <https://wiki.nottinghack.org.uk/wiki/Constitution>`_, the definition from the Constitution will be used.
 
 * **The Board** refers to the seven trustees of Nottinghack
 * **Nottinghack** refers to the organisation Nottingham Hackspace Ltd
