@@ -23,8 +23,8 @@ Below is a summary of the rules, each has its own full description that can be a
     We ask that you respect the Hackspace. Do this by **cleaning up after yourself**, by being careful not to **damage infrastructure** and by **reporting both damaged/broken tools and infrastructure**.
 5. Do Not Hack
     Do Not Hack is an integral part of the Hackspace. Do Not Hack means you are claiming materials, a donation or a project as your own, and requesting that no other members 'hack' the component parts.
-6. Abiding by UK Law
-    Whilst in the Hackspace you must abide by all applicable UK laws.
+6. UK Legislation
+    Whilst in the Hackspace you must abide by all applicable UK laws and legislation.
 7. Storage in the Hackspace
     Remember that the **Hackspace has limited storage space**. We have designated storage space for **consumables, resources** and **members’ storage**.
 8. Donating to the Hackspace
@@ -49,7 +49,7 @@ B. SafeSpaces Policy
     Rule 3. Be Excellent to One Another <be-excellent-to-one-another>
     Rule 4. Respect the Hackspace <respect-the-hackspace>
     Rule 5. Do Not Hack <do-not-hack>
-    Rule 6. Abiding by UK Law <abiding-by-UK-law>
+    Rule 6. UK Legislation <uk-legislation>
     Rule 7. Storage in the Hackspace <storage-in-the-hackspace>
     Rule 8. Donating to the Hackspace <donating-to-the-hackspace>
     Appendix A: Complaints Policy <complaints-policy>
