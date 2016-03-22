@@ -42,6 +42,7 @@ B. SafeSpaces Policy
     :hidden:
     :maxdepth: 2
 
+    Definitions <definitions>
     Rule 0. Do Not Be On Fire <do-not-be-on-fire>
     Rule 1. Membership of the Hackspace <membership-of-the-hackspace>
     Rule 2. Guests & Visitors <guests-and-visitors>
