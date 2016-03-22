@@ -3,15 +3,15 @@ Membership of the Hackspace
 
 Any person of the age of 18 or over can join the hackspace, by visiting on a open night, providing correct details and setting up and maintaining a monthly payment into our nominated bank account.
 
-The amount you pay into the Hackspace is your own choice, however we ask that you contribute more than you take away, for information; **the average costs per hour to run the hackspace can be seen on our** `Cost of hacking page <http://nottinghack.org.uk/tools/costposter/>`_ .
+The amount you pay into Nottinghack is your own choice, however we ask that you contribute more than you take away. For information **the average costs per hour to run the hackspace can be seen on our** `Cost of hacking page <http://nottinghack.org.uk/tools/costposter/>`_ .
 
-Members who need to contribute more to the Hackspace may be asked to do so.
+From time to time all membership contributions will be reviewed and members may be asked to increase their contribution.
 
-Should you bring guests to the Hackspace regularly, please **ensure your membership fees cover their access** and usage of the Hackspace.
+Should you bring guests to Nottinghack regularly, please **ensure your membership fees cover their access** and usage of the Hackspace.
 
-When a member stops paying their standing order, they will become an Ex-Member. **An ex member will be provided notification of such**, and **their members box will be emptied** within 2 months of the last standing order payment. In order to abide by the Torts (Interference with Goods) Act 1977, all Ex-members with projects or gear in the Hackspace will be served with a letter sent to the postal address they have in HMS. 
+When a member stops paying their standing order, they will become an Ex-Member. **An ex member will be provided notification of such**, and **their members box and any project will relocated** within 2 months of the last standing order payment. Nottinghack will abide by the Torts (Interference with Goods) Act 1977 when disposing of any member's possessions. 
 
-If you decide to no longer be a member, please empty your box first. The Hackspace will buy it back from you as long as it is undamaged, however if it is not reusable we will not buy it back off you.
+If you decide to no longer be a member, please empty your member's box and remove any other possessions first. Nottinghack will buy your box back from you as long as it is reusable.
 
 **Members must follow and agree to all rules**, and membership can be revoked through the grievance procedure.
 
