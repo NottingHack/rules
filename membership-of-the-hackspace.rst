@@ -9,7 +9,7 @@ From time to time all membership contributions will be reviewed and members may 
 
 Should you bring guests to Nottinghack regularly, please **ensure your membership fees cover their access** and usage of the Hackspace.
 
-When a member stops paying their standing order, they will become an Ex-Member. **An ex member will be provided notification of such**, and **their members box and any project will relocated** within 2 months of the last standing order payment. Nottinghack will abide by the Torts (Interference with Goods) Act 1977 when disposing of any member's possessions. 
+When a member stops paying their standing order, they will become an Ex-Member. **An ex member will be provided notification of such**, and **their members box and any project will relocated** within 2 months of the last standing order payment. Nottinghack will abide by the Torts (Interference with Goods) Act 1977 when disposing of any member's possessions. The full termination process can be found in the Appendix C.
 
 If you decide to no longer be a member, please empty your member's box and remove any other possessions first. Nottinghack will buy your box back from you as long as it is reusable.
 
