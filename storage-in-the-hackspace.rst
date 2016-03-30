@@ -9,7 +9,7 @@ If you are working on a project that is too large for a 35l box you can store it
 
 If your project is too big for the Large Project Shelves, a storage request must be made on the Google Group.
 
-If you wish to **store solvents**, they must be stored in the members’ section of the solvents cupboard.
+If you wish to **store solvents** or other flammable/dangerous liquids, they must be stored in the members' section of the solvents cupboard. Please bear Rule 0 in mind when doing this, and pay attention to the stated storage limit of the cupboard - if your liquid will not fit, take it home
 
 If you use the **spray booth**, you can of course leave your project to dry for up to 24 hours and drying racks are provided for this outside the booth, however please ensure it is labelled with a Do Not Hack sign.
 
