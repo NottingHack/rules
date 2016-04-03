@@ -14,9 +14,9 @@ Below is a summary of the rules, each has its own full description that can be a
 0. Rule 0: Do Not Be On Fire
     It is essential you use the space safely as a responsible adult.
 1. Membership of the Hackspace
-    Any person of the age of 18 can join the hackspace, by visiting on a open night, providing correct details and setting up and maintaining a monthly payment into our nominated bank account.
+    Any person aged 18 or over can join the Hackspace, by visiting on a open night, providing correct details, and setting up and maintaining a monthly payment into our nominated bank account.
 2. Guests & Visitors
-    Guests & visitors are **welcome in the Hackspace**, however whoever brings them into the space or lets them into the space is **wholly responsible for them**.
+    Guests & visitors are **welcome in the Hackspace**. However whoever brings them into the space or lets them into the space is **wholly responsible for them**.
 3. Be Excellent To One Another
     We ask that you respect others when using the Hackspace. Do this by **cleaning up after yourself**, abiding by our **safe spaces** policy and **code of conduct**.
 4. Respect the Hackspace
@@ -33,8 +33,8 @@ Below is a summary of the rules, each has its own full description that can be a
 Appendices
 ----------
 
-A. Grievance Procedure
-    This is the procedure followed by the Trustees when it unfortunately becomes necessary to consider disciplinary action against a member.
+A. Complaints Policy
+    This is the policy followed by the Trustees when we receive a complaint.
 B. SafeSpaces Policy
     This policy sets out what behaviour is inappropriate in that it may amount to harassment.
 

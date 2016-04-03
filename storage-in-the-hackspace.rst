@@ -11,8 +11,6 @@ If your project is too big for the Large Project Shelves, a storage request must
 
 If you wish to **store solvents** or other flammable/dangerous liquids, they must be stored in the members' section of the solvents cupboard. Please bear Rule 0 in mind when doing this, and pay attention to the stated storage limit of the cupboard - if your liquid will not fit, take it home
 
-If you use the **spray booth**, you can of course leave your project to dry for up to 24 hours and drying racks are provided for this outside the booth, however please ensure it is labelled with a Do Not Hack sign.
-
-Chemicals, solvents and flammables must always be labelled and kept in appropriate, sealed containers. Flammable liquids (oils, solvents, cleaning fluids etc.) should be kept in the **solvents cupboard**.
+If you use the **spray booth**, you can of course leave your project to dry for up to 24 hours and drying racks are provided for this outside the booth, however please ensure it is labelled with a Do Not Hack sign - this can be on the shelves if applying a label would damage your project.
 
 You can find more information about bike storage here. (https://wiki.nottinghack.org.uk/wiki/Bike_Storage)
