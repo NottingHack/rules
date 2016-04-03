@@ -1,7 +1,7 @@
-Donating to the Hackspace
-=========================
+Donating to Nottingham Hackspace
+================================
 
-**Consider the benefit to the Hackspace** when making a donation. Do this by posting your items and offers to the Google Group. Is there a general consensus from the members about its use or usefulness?
+**Consider the benefit to Nottingham Hackspace** when making a donation. Do this by posting your items and offers to the Google Group. Is there a general consensus from the members about its use or usefulness?
 
 Remember that the Hackspace has **limited storage space**. Don’t bring in things without asking or checking.
 

@@ -5,7 +5,7 @@ We ask that you respect the Hackspace. Do this by **cleaning up after yourself**
 
 Please report broken/damaged tools and infrastructure to maintainers@nottinghack.org.uk so repairs can be made.
 
-The Hackspace **does not** guarantee uptime on **any** of the tools available at the Space.
+Nottingham Hackspace **does not** guarantee uptime on **any** of the tools available at the Space.
 
 Tools should not be removed (or **borrowed**) from the Hackspace at any time.  Members are asked to remember that the Hackspace is a shared space.
 
