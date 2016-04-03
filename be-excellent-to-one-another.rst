@@ -1,7 +1,7 @@
 Be Excellent To One Another
 ===========================
 
-We ask that you respect others when using the Hackspace. Do this by **cleaning up after yourself** and abiding by our **safe spaces** policy in Appendix B
+We ask that you respect others when using the Hackspace. Do this by **cleaning up after yourself** and abiding by our **safe spaces** policy in Appendix B.
 
 There are housekeeping tasks that always need doing, and can be completed by any member. Please see this wiki page for more details.
 

@@ -5,7 +5,7 @@ Any person of the age of 18 or over can join Nottinghack, by visiting on a open 
 
 Persons aged between 16 and 18 can join Nottinghack as a 'Young Hacker'. To join, the Young Hacker and their parents or guardians will need to meet with a Trustee at the Hackspace to discuss the risks within the Space.
 
-The amount you pay into Nottinghack is your own choice, however we ask that you contribute more than you take away. For information **the average costs per hour to run the hackspace can be seen on our** `Cost of hacking page <http://nottinghack.org.uk/tools/costposter/>`_ .
+The amount you pay into Nottinghack is your own choice, however we ask that you contribute more than you take away. For information **the average costs per hour to run the Hackspace can be seen on our** `Cost of hacking page <http://nottinghack.org.uk/tools/costposter/>`_ .
 
 From time to time all membership contributions will be reviewed and members may be asked to increase their contribution.
 
