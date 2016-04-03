@@ -12,11 +12,11 @@ Below is a summary of the rules, each has its own full description that can be a
 
 
 0. Rule 0: Do Not Be On Fire
-    It is essential you use the space safely as a responsible adult.
+    It is essential you use the Space safely as a responsible adult.
 1. Membership of the Hackspace
-    Any person aged 18 or over can join the Hackspace, by visiting on a open night, providing correct details, and setting up and maintaining a monthly payment into our nominated bank account.
+    Any person aged 18 or over can join Nottingham Hackspace, by visiting on a open night, providing correct details, and setting up and maintaining a monthly payment into our nominated bank account.
 2. Guests & Visitors
-    Guests & visitors are **welcome in the Hackspace**. However whoever brings them into the space or lets them into the space is **wholly responsible for them**.
+    Guests & visitors are **welcome in the Hackspace**. However whoever brings them into the space or lets them into the Space is **wholly responsible for them**.
 3. Be Excellent To One Another
     We ask that you respect others when using the Hackspace. Do this by **cleaning up after yourself**, abiding by our **safe spaces** policy and **code of conduct**.
 4. Respect the Hackspace
@@ -27,8 +27,8 @@ Below is a summary of the rules, each has its own full description that can be a
     Whilst in the Hackspace you must abide by all applicable UK laws and legislation.
 7. Storage in the Hackspace
     Remember that the **Hackspace has limited storage space**. We have designated storage space for **consumables, resources** and **members’ storage**.
-8. Donating to the Hackspace
-    **Consider the benefit to the Hackspace** when making a donation. Do this by posting your items and offers to the Google Group. Is there a general consensus from the members about its use or usefulness?
+8. Donating to Nottingham Hackspace
+    **Consider the benefit to the Nottingham Hackspace** when making a donation. Do this by posting your items and offers to the Google Group. Is there a general consensus from the members about its use or usefulness?
 
 Appendices
 ----------
@@ -51,6 +51,6 @@ B. SafeSpaces Policy
     Rule 5. Do Not Hack <do-not-hack>
     Rule 6. UK Legislation <uk-legislation>
     Rule 7. Storage in the Hackspace <storage-in-the-hackspace>
-    Rule 8. Donating to the Hackspace <donating-to-the-hackspace>
+    Rule 8. Donating to Nottingham Hackspace <donating-to-nottingham-hackspace>
     Appendix A: Complaints Policy <complaints-policy>
     Appendix B: SafeSpaces Policy <safespaces>
