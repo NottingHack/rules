@@ -7,7 +7,7 @@ Members are entitled to a **35l storage box**. You can buy a box from any of the
 
 If you are working on a project that is too large for a 35l box you can store it on the Large Project Shelves. It can be stored there whilst it is actively being worked on, and must always be labelled according to our **Do Not Hack** rules.
 
-If your project is too big for the Large Project Shelves, a storage request must be made on the Google Group.
+If your project is too big for the Large Project Shelves, a storage request must be made on the `Google Group <https://groups.google.com/forum/#!forum/nottinghack>`_. You should start a post with a description of your project, an expected completion date and a suggestion of where in the space you are going to store it. If there are no objections within 48 hours, you can proceed.
 
 If you wish to **store solvents** or other flammable/dangerous liquids, they must be stored in the members' section of the solvents cupboard. Please bear Rule 0 in mind when doing this, and pay attention to the stated storage limit of the cupboard - if your liquid will not fit, take it home
 
