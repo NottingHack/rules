@@ -12,9 +12,10 @@ When labelling something with Do Not Hack your label must include:
 * Name
 * Description of project
 * Contact Email
-* Shelf Location (if on the colour coded large project shelves)
 * Date Started
 * Date Predicted for Project End
+
+Approved Do Not Hack labels are generated using the `Hackspace Management System (HMS) <https://hms.nottinghack.org.uk>`_, for more info on generating a label see the `Members guide <https://guide.nottinghack.org.uk/do-not-hack.html#generating-a-label>`_
 
 **Infrastructure and tools** may be labelled and shouldn’t be hacked.
 
