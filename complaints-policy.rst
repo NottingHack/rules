@@ -59,6 +59,6 @@ Confidentiality and Openness
 
 Complaints are very delicate issues, so details of all complaints will be kept in the upmost confidence. The trustees cannot, and will not try, to stop a complainant from discussing their complaint with their friends, but the trustees will not discuss with anyone outside of the trustees and involved parties. Additionally, a trustee who makes a complaint will treat that complaint as if they received it for the purposes of confidentiality.
 
-The trustees will, however, endevour to release as many details as is possible, and at the very least will keep a count of complaints and a list of current warnings on the `wiki <https://wiki.nottinghack.org.uk/wiki/Grievance_Procedure/Warnings_Issued>`_ .
+The trustees will, however, endevour to release as many details as is possible, and at the very least will keep a count of complaints and a list of current warnings on the `wiki <https://wiki.nottinghack.org.uk/wiki/Grievance_Procedure/Warnings_Issued>`_.
 
 Finally, the trustees may choose not to share a complaint with the subject of that complaint if they deem the complaint to be without merit. The complainant will be informed of this fact.
