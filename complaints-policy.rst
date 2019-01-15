@@ -32,7 +32,8 @@ Complaints fall into this category if they are made against the hackspace as a w
 
 The primary purpose of the investigation is to determine the root cause of the complaint, identify any required changes to the hackspace's policy or procedures and deliver those changes.
 
-**FLOWCHART GOES HERE**
+.. image:: /_static/Complaints_Against_Nottinghack.png
+   :width: 600
 
 Complaint Against a Member
 --------------------------
@@ -41,7 +42,8 @@ Complaints fall into this category if they are made directly against a member or
 
 **If it is deemed necessary, a temporary ban from the space may be issued until the complaint is resolved. These must only be used in severe cases where other people are at risk of harm.**
 
-**FLOWCHART GOES HERE**
+.. image:: /_static/Complaint_Against_a_Member.png
+   :width: 600
 
 Consequences
 ------------
@@ -52,13 +54,14 @@ In the case of Rule 0 violations especially, additional consequences such as req
 
 Bans from tools or the space must be agreed by an N-1 Majority. A ban for a current member will trigger the process to remove the member as per section 4.4 of the `Constitution <https://wiki.nottinghack.org.uk/wiki/Constitution>`_.
 
-**FLOWCHART GOES HERE**
+.. image:: /_static/Consequences_to_Complaints.png
+   :width: 600
 
 Confidentiality and Openness
 ----------------------------
 
 Complaints are very delicate issues, so details of all complaints will be kept in the upmost confidence. The trustees cannot, and will not try, to stop a complainant from discussing their complaint with their friends, but the trustees will not discuss with anyone outside of the trustees and involved parties. Additionally, a trustee who makes a complaint will treat that complaint as if they received it for the purposes of confidentiality.
 
-The trustees will, however, endevour to release as many details as is possible, and at the very least will keep a count of complaints and a list of current warnings on the `wiki <>`_ **NEEDS NEW LINK**
+The trustees will, however, endevour to release as many details as is possible, and at the very least will keep a count of complaints and a list of current warnings on the `wiki <https://wiki.nottinghack.org.uk/wiki/Grievance_Procedure/Warnings_Issued>`_.
 
 Finally, the trustees may choose not to share a complaint with the subject of that complaint if they deem the complaint to be without merit. The complainant will be informed of this fact.
