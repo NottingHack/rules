@@ -3,8 +3,6 @@ Membership of the Hackspace
 
 Any person of the age of 18 or over can join Nottingham Hackspace, by visiting on a open night, providing correct details and setting up and maintaining a monthly payment into our nominated bank account.
 
-Persons aged between 16 and 18 can join Nottingham Hackspace as a 'Young Hacker'. To join, the Young Hacker and their parents or guardians will need to meet with a Trustee at the Hackspace to discuss the risks within the Space.
-
 The amount you pay into Nottingham Hackspace is your own choice, however we ask that you contribute more than you take away. For information **the average costs per hour to run the Hackspace can be seen on our** `Cost of hacking page <http://nottinghack.org.uk/tools/costposter/>`_ .
 
 From time to time all membership contributions will be reviewed and members may be asked to increase their contribution.
