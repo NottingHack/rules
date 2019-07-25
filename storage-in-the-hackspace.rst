@@ -3,7 +3,7 @@ Storage in the Hackspace
 
 Remember that the **Hackspace has limited storage space**. We have designated storage space for **consumables, resources** and **members’ storage**.
 
-Members are entitled to a **35l storage box**. You can buy a box from any of the Membership Team or Trustees for £5. You must label your box with your name. A contact method (such as email) is also appreciated on the label, to help identify the owner of a box.
+Members are entitled to a **35l storage box**. The exact box is provided by the space to members. You can buy a box via HMS for £5. You must label your box with the label printed from HMS. Space is limited, boxes can only be brought if HMS knows that space is available, but you must also check that a new physical box is available.
 
 If you are working on a project that is too large for a 35l box you can store it on the Large Project Shelves. It can be stored there whilst it is actively being worked on, and must always be labelled according to our **Do Not Hack** rules.
 
