@@ -37,6 +37,8 @@ A. Complaints Policy
     This is the policy followed by the Trustees when we receive a complaint.
 B. SafeSpaces Policy
     This policy sets out what behaviour is inappropriate in that it may amount to harassment.
+C. Discord Policy
+    This policy sets out acceptable conduct in the Hackspace Discord Server.
 
 .. toctree::
     :hidden:
@@ -54,3 +56,4 @@ B. SafeSpaces Policy
     Rule 8. Donating to Nottingham Hackspace <donating-to-nottingham-hackspace>
     Appendix A: Complaints Policy <complaints-policy>
     Appendix B: SafeSpaces Policy <safespaces>
+    Appendix C: Discord Policy <Discord-Rules>
