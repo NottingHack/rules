@@ -1,8 +1,6 @@
 Complaints Policy
 =================
 
-**THIS IS AN INCOMPLETE REWRITE OF THE GRIEVANCE PROCEDURE - NOT PART OF THE RULES CONSULTATION**
-
 Introduction
 ------------
 
