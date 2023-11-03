@@ -56,4 +56,4 @@ C. Discord Policy
     Rule 8. Donating to Nottingham Hackspace <donating-to-nottingham-hackspace>
     Appendix A: Complaints Policy <complaints-policy>
     Appendix B: SafeSpaces Policy <safespaces>
-    Appendix C: Discord Policy <Discord-Rules>
+    Appendix C: Discord Policy <discord>
