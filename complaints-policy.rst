@@ -38,12 +38,12 @@ Complaint Against a Member
 
 Complaints fall into this category if they are made directly against a member or members, or if a complaint is referred from the previous section.
 
-We encourage you to raise a complaint if you,
+We encourage you to raise a complaint for breaking any hackspace rules, including if you:
 
 * feel that you have been harassed or bullied by another member
 * find someone sleeping in the hackspace,
 * notice that a member is regularly leaving without cleaning up a large amount of mess,
-* are breaking UK legislation within the hackspace,
+* notice a member breaking UK legislation within the hackspace,
 
 **If it is deemed necessary, a temporary ban from the space may be issued until the complaint is resolved. These must only be used in severe cases where other people are at risk of harm.**
 
