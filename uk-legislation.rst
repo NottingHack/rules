@@ -11,7 +11,7 @@ Whilst in the Hackspace you must abide by all applicable UK laws and legislation
 Additionally Nottingham Hackspace will, at times, extend current legislation where we feel it benefits Nottingham Hackspace and its members.  For this reason the following rules are in place:
 
 * **Vaping** (e.g. use of e-cigarettes) is not permitted inside the space.
-* No **sleeping** in the space
-* The **Safe Spaces** (Appendix B) policy must be followed at all times.
+* **Sleeping** is strictly forbidden and may result in a permanent ban.
+* **Safe Spaces** (Appendix B) policy must be followed at all times.
 
 Property is left in the Hackspace at the owner’s risk, Nottingham Hackspace accepts no liability for lost or stolen items.
