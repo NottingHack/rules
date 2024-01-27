@@ -136,11 +136,11 @@ Concerns and Complaints
 
 The trustees would like concerns and compliance regarding data protection issues to be raised with them first using the email address or postal address at the top of this document.  Complaints can also be addressed to the Information Commissioners Office at:
 
-Information Commissioner’s Office
-Wycliffe House
-Water Lane
-Wilmslow
-Cheshire
-SK9 5AF.
+| Information Commissioner’s Office
+| Wycliffe House
+| Water Lane
+| Wilmslow
+| Cheshire
+| SK9 5AF.
 
 You can also contact them by telephone on 01625 545 745 or via their website at https://www.ico.org.uk.
