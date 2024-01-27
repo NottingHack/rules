@@ -57,3 +57,4 @@ C. Discord Policy
     Appendix A: Complaints Policy <complaints-policy>
     Appendix B: SafeSpaces Policy <safespaces>
     Appendix C: Discord Policy <discord>
+    Appendix D: GDPR and Privacy Policy <privacy>
