@@ -9,6 +9,6 @@ Included in this are both **children** and **animals** - it is common courtesy t
 
 Please do not leave your animal, child or guest unattended in the Hackspace. They are your responsibility and must be attended at all times.
 
-Guests cannot use tools that require an induction, such as the laser cutter, Myford lathe, Bridgeport milling machine, or table saw. You can check whether a tool requires an induction by searching for the tool on the Wiki.
+Guests cannot use tools that require an induction, such as the laser cutter, Myford and Warco lathes, Bridgeport milling machine, planer/thicknesser, table saw, resin printer, and embroidery machine. You can check whether a tool requires an induction by searching for the tool on the Wiki.
 
 Please remember that even guests should be challenged if you witness unsafe or rule breaking behaviour.
