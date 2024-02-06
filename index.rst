@@ -39,6 +39,8 @@ B. SafeSpaces Policy
     This policy sets out what behaviour is inappropriate in that it may amount to harassment.
 C. Discord Policy
     This policy sets out acceptable conduct in the Hackspace Discord Server.
+D. GDPR and Privacy Policy
+    How your information is used to provide access to the hackspace.
 
 .. toctree::
     :hidden:
@@ -57,3 +59,4 @@ C. Discord Policy
     Appendix A: Complaints Policy <complaints-policy>
     Appendix B: SafeSpaces Policy <safespaces>
     Appendix C: Discord Policy <discord>
+    Appendix D: GDPR and Privacy Policy <privacy>
