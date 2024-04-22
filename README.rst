@@ -5,16 +5,17 @@ Nottingham Hackspace Rules
 |docs|
 
 http://rules.nottinghack.org.uk
-This is the draft version of the new rules for nottingham hackspace
+
+These are the the rules for the Nottingham Hackspace.
 
 
 Contributing
 ============
-The rules (and this README) are written using reStructuredText which is a way of formatting a plain text file whilst keeping it human-readable.
+The rules (and this README) are written using `reStructuredText <https://docutils.sourceforge.net/rst.html>`_ which is a way of formatting a plain text file whilst keeping it human-readable.
 
-For more info on the reStructuredText syntax please visit http://docutils.sourceforge.net/rst.html.  If you are new to this type of documentation, have a look at `the Primer <http://docutils.sourceforge.net/docs/user/rst/quickstart.html>`_ and `Quick reStructuredText <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_.  If you have used something like this before (for example, Markdown), you should be able to get away with just the `Cheat Sheet <http://docutils.sourceforge.net/docs/user/rst/cheatsheet.txt>`_.
+If you are new to this type of documentation, have a look at `the Primer <http://docutils.sourceforge.net/docs/user/rst/quickstart.html>`_ and `Quick reStructuredText <https://docutils.sourceforge.net/docs/user/rst/quickref.html>`_.  If you have used something like this before (for example, Markdown), you should be able to get away with just the `Cheat Sheet <http://docutils.sourceforge.net/docs/user/rst/cheatsheet.txt>`_.
 
-The finsihed documents are built and hosted by Read The Docs http://readthedocs.org and are available at http://rules.nottinghack.org.uk.  When a change is merged into this GitHub repository, the documents are automatically regenerated and available at that site in a couple of minutes.
+The finished documents are built and hosted by `Read The Docs <https://readthedocs.org>`_ and are available at https://rules.nottinghack.org.uk.  When a change is merged into this GitHub repository, the documents are automatically regenerated and available at that site in a couple of minutes.
 
 We will use GitHub for contributions to the rules, using `issues <https://github.com/NottingHack/rules/issues>`_ for simple comments and suggestions if you don't want to get into the nitty gritty, and `pull requests <https://github.com/NottingHack/rules/pulls>`_ for more complex changes.
 
@@ -55,20 +56,20 @@ You will need python and to install the following dependencies
 
 .. code:: bash
 
-$ pip install sphinx
-$ pip install sphinx_rtd_theme
+  $ pip install sphinx
+  $ pip install sphinx_rtd_theme
 
 Then you can build the html version with
 
 .. code:: bash
 
-$ make html
+  $ make html
 
 and open the index page at
 
 .. code::
 
-./build/html/index.html
+  ./build/html/index.html
 
 .. |docs| image:: https://readthedocs.org/projects/nottingham-hackspace-ruless/badge/?version=latest
     :target: http://rules.nottinghack.org.uk/en/latest/?badge=latest
