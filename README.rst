@@ -27,9 +27,9 @@ Workflow for submitting changes
 
 If you can, please use a pull request for a change.  This will cut down the amount of work required to integrate multiple issues.
 
-To do this, you will need to fork (make a personal copy of) this repository into your personal account.  Once you have done that, navigate to your fork and select the 'rtd-draft' branch.
+To do this you can make use of Github's tooling if you're not comfortable with working on the repo on your local machine. You will need to fork (make a personal copy of) this repository into your personal account.
 
-You can then work on that in your browser (or your editor of choice) to make the changes you want and commit them to your fork.  You can edit in browser by clicking on the file you wish to change and clicking on the edit icon (pencil) in the top right hand corner. At the bottom of the page is a area titled "Commit changes" Fill in the boxes with a meaningful comment about your change. Small changes and lots of commits are better than a single commit with a rewrite of the whole page.
+You can then work on that in your browser (or your editor of choice) to make the changes you want and commit them to your fork.  You can edit in browser by clicking on the file you wish to change and clicking on the edit icon (pencil) in the top right hand corner. Then, look for the area titled "Commit changes". Fill in the boxes with a meaningful comment about your change. Small changes and lots of commits are better than a single commit with a rewrite of the whole page.
 
 Now you can then open a pull request to the main repository - on the front page of your fork click the green 'New pull request' button, this will show a list of changes between your copy the main repository. Click the green 'Create pull request' button, add a suitable comment and click the green 'Create pull request'.
 
