@@ -10,10 +10,10 @@ Complaints may be made by any member, or non-member of the hackspace by emailing
 
 Complaints fall into one of three categories, set out in the sections below. These are given in priority order, and a complaint falls into the first category it can fit into.
 
-Complaints Involving a Trustee
-------------------------------
+Complaints Raised by or About a Trustee
+---------------------------------------
 
-Complaints fall into this category is they are made by, or against, a trustee or trustees.
+Complaints fall into this category is they are made by, or against, a trustee or trustees where there is a need to reduce conflicts of interest. This excludes situations where the whole Board are raising a complaint against a particular member, which would require an N-1 decision.
 
 A complaint against, or raised by, a trustee or trustees creates a conflict of interest for the that trustee(s). That trustee or trustees must be removed from all discussions and decisions about the complaint. They should also be removed from the primary trustees@nottinghack.org.uk distribution list whilst the complaint is active.
 
@@ -36,14 +36,14 @@ The primary purpose of the investigation is to determine the root cause of the c
 Complaint Against a Member
 --------------------------
 
-Complaints fall into this category if they are made directly against a member or members, or if a complaint is referred from the previous section.
+Complaints fall into this category if they are made by a member, members, or the Board of Trustees directly against a member or members, or if a complaint is referred from the previous section.
 
 We encourage you to raise a complaint for breaking any hackspace rules, including if you:
 
-* feel that you have been harassed or bullied by another member
+* feel that you have been harassed or bullied by another member,
 * find someone sleeping in the hackspace,
 * notice that a member is regularly leaving without cleaning up a large amount of mess,
-* notice a member breaking UK legislation within the hackspace,
+* notice a member breaking UK legislation within the hackspace.
 
 **If it is deemed necessary, a temporary ban from the space may be issued until the complaint is resolved. These must only be used in severe cases where other people are at risk of harm.**
 
