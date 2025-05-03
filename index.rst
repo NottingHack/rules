@@ -28,7 +28,7 @@ Below is a summary of the rules, each has its own full description that can be a
 7. Storage in the Hackspace
     Remember that the **Hackspace has limited storage space**. We have designated storage space for **consumables, resources** and **members’ storage**.
 8. Donating to Nottingham Hackspace
-    **Consider the benefit to the Nottingham Hackspace** when making a donation. Do this by posting your items and offers to the Google Group. Is there a general consensus from the members about its use or usefulness?
+    **Consider the benefit to the Nottingham Hackspace** when making a donation. Do this by posting your items and offers in the appropriate channel on Discord. Is there a general consensus from the members about its use or usefulness?
 
 Appendices
 ----------
