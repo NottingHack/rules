@@ -27,7 +27,7 @@ Below is a summary of the rules, each has its own full description that can be a
     Whilst in the Hackspace you must abide by all applicable UK laws and legislation.
 7. Storage in the Hackspace
     Remember that the **Hackspace has limited storage space**. We have designated storage space for **consumables, resources** and **members’ storage**.
-8. Donating to Nottingham Hackspace
+8. Donating Items to Nottingham Hackspace
     **Consider the benefit to the Nottingham Hackspace** when making a donation. Do this by posting your items and offers in the appropriate channel on Discord. Is there a general consensus from the members about its use or usefulness?
 
 Appendices
@@ -55,7 +55,7 @@ D. GDPR and Privacy Policy
     Rule 5. Do Not Hack <do-not-hack>
     Rule 6. UK Legislation <uk-legislation>
     Rule 7. Storage in the Hackspace <storage-in-the-hackspace>
-    Rule 8. Donating to Nottingham Hackspace <donating-to-nottingham-hackspace>
+    Rule 8. Donating Items to Nottingham Hackspace <donating-to-nottingham-hackspace>
     Appendix A: Complaints Policy <complaints-policy>
     Appendix B: SafeSpaces Policy <safespaces>
     Appendix C: Discord Policy <discord>
