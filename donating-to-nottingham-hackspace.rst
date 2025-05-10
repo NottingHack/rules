@@ -1,5 +1,5 @@
-Donating to Nottingham Hackspace
-================================
+Donating Items to Nottingham Hackspace
+======================================
 
 **Consider the benefit to Nottingham Hackspace** when making a donation. Please consider the following:
 
