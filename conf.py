@@ -49,7 +49,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Nottingham Hackspace Rules'
-copyright = u'2024, Nottingham Hackspace'
+copyright = u'2025, Nottingham Hackspace'
 author = u'Nottingham Hackspace'
 
 # The version info for the project you're documenting, acts as replacement for
