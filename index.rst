@@ -6,7 +6,7 @@
 Nottingham Hackspace Rules
 ==========================
 
-Welcome to the Nottingham Hackspace Rules. This contains the rules to which every member and guest of the space is expected to follow. They do not define what you can do, only what you must do.  All members are expected to have an awareness of the rules, and confirm that they are understood when becoming a member. If you're ever unsure, you should always ask, either by emailing the trustees, or by asking on Discord in the appropriate channel.
+Welcome to the Nottingham Hackspace Rules. This contains the rules to which every member and guest of the space is expected to follow. They do not define what you can do, only what you must not do.  All members are expected to have an awareness of the rules, and confirm that they are understood when becoming a member. If you're ever unsure, you should always ask, either by emailing the trustees, or by asking on Discord in the appropriate channel.
 
 There are nine core rules,
 
