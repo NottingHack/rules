@@ -3,7 +3,7 @@ Rule 0: Do Not Be On Fire
 
 It is essential you use the Space safely as a responsible adult.
 
-Open flames within the space are not permitted within the space, and are not covered by our insurance.
+Open flames are not permitted within the space, and are not covered by our insurance.
 
 We encourage members to challenge **unsafe storage** by other members. If you do not feel comfortable challenging a member, we welcome emails to the trustees@nottinghack.org.uk email address.
 
