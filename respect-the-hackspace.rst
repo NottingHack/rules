@@ -1,7 +1,7 @@
 Respect the Hackspace
 =====================
 
-We ask that you respect the Hackspace. Do this by **cleaning up after yourself**, by being careful not to **damage infrastructure** and by **reporting both damaged/broken tools and infrastructure**.
+We ask that you respect the Hackspace. Do this by **cleaning up after yourself**, by leaving the area the same, if not cleaner, than you found it, and by being careful not to **damage infrastructure** and by **reporting both damaged/broken tools and infrastructure**.
 
 Please report broken/damaged tools and infrastructure to maintainers@nottinghack.org.uk so repairs can be made.
 
