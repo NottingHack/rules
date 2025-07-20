@@ -6,7 +6,7 @@ Introduction
 
 This policy sets out how complaints will normally be handled by the hackspace. In extreme cases, especially in cases of breaches of Rule 0, the trustees can bypass this policy in its entirity if an N-1 majority is reached.
 
-Complaints may be made by any member, or non-member of the hackspace by emailing trustees@nottinghack.org.uk. If the complainant prefers, they can directly email one or more of the trustees using their direct email addresses, available on the `wiki <https://wiki.nottinghack.org.uk/wiki/Trustees>`_.
+Complaints may be made by any member, or non-member of the hackspace by emailing trustees@nottinghack.org.uk. If the complainant prefers, they can directly email one or more of the trustees using their direct email addresses, available on the `wiki <https://wiki.nottinghack.org.uk/wiki/Trustees>`_.  The processes defined for handling complaints are not applicable to non-members - this includes those who are in the process of becoming members (i.e. "Awaiting Payment") and those who have let their membership lapse (i.e. "Ex-Member"). In cases where complaints are raised against non-members, the board will act in whatever way is in the best interest of the hackspace.
 
 Complaints fall into one of three categories, set out in the sections below. These are given in priority order, and a complaint falls into the first category it can fit into.
 
