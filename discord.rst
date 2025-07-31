@@ -1,4 +1,4 @@
-Discord Rules
+Discord Policy
 ===========================
 
 The Nottingham Hackspace Discord Server is used by members of `Nottingham Hackspace <https://nottinghack.org.uk>`_ and those interested.
