@@ -13,4 +13,4 @@ If there is an issue with the label printer, please contact trustees@nottinghack
 
 **Infrastructure and tools** may be labelled and shouldn’t be hacked.
 
-When a project is left unlabelled, the Trustees or other members may note this, and **mark it as unlabelled**. If something remains unlabelled for more than a month, it will be disposed of or reused..
+When a project is left unlabelled, the Trustees or other members may note this, and **mark it as unlabelled**. If something remains unlabelled for more than a month, it will be disposed of or reused.
