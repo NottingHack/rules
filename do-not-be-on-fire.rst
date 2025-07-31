@@ -19,4 +19,4 @@ Nottingham Hackspace abides by **The Health & Safety at Work Act**, and points o
 
 When you are working on your own in the Hackspace, please take extra care when using potentially dangerous tools. In case of genuine emergencies you should ring the emergency services. The official address for the Hackspace is written on various posters and boards throughout the Hackspace.
 
-If you have suffer an injury or near miss, you should report this using the `Near Miss and Accident Reporting Form <https://docs.google.com/forms/d/e/1FAIpQLSf1A0QWBMJibdh5wYaxr2pQ7-TqrnZ7p9_cpx7H5O-Qdj-hZg/viewform>`_
+If you have suffer an injury or near miss, you should report this using the `Near Miss and Accident Reporting Form <https://docs.google.com/forms/d/e/1FAIpQLSf1A0QWBMJibdh5wYaxr2pQ7-TqrnZ7p9_cpx7H5O-Qdj-hZg/viewform>`_.
