@@ -2,12 +2,12 @@ GDPR and Privacy Policy
 =======================
 
 
-The Organization
+The Organisation
 ----------------
 
 This is the data privacy policy for Nottingham Hackspace Ltd.  
 
-Nottingham Hackspace are classified as a small organisation and do not have a dedicated data protection officer but the trustees will respond to any data enquiries and requests.
+Nottingham Hackspace is classified as a small organisation and does not have a dedicated data protection officer but the trustees will respond to any data enquiries and requests.
 
 General enquiries should be send to:
 
@@ -28,7 +28,7 @@ You may have the right at any time to request access to, rectification or erasur
 
 Standard exemptions to this policy apply - more information is available on the ICO website: https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/exemptions/a-guide-to-the-data-protection-exemptions/
 
-Data Colleciton and Processing
+Data Collection and Processing
 ------------------------------
 
 Definitions
@@ -78,7 +78,7 @@ When you access the Hackspace we collect, process and store information to ident
 RFID Controlled Tool Usage
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-When you use an RFID controlled tools we collect, process and store information to identify who has  accessed the tool, at what time and for how long.
+When you use an RFID controlled tool we collect, process and store information to identify who has  accessed the tool, at what time and for how long.
 
 * **Legitimate Interest** - We collect and store information about tool bookings. If you book tools your booking information is available to others about the time of the booking via the tool booking calendar.
 
@@ -111,9 +111,9 @@ The hackspace is run entirely by volunteers - this includes the trustees volunte
 Snackspace and Donations Payment Data
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Snackspace allows members to purchase items from vending machines, membership boxes and tool time in advanced. We rely on an external service (Stripe, Inc.) for handling payment processing of top-ups of Snackspace balance, or occasional donations to the space using the Hackspace Management System.
+Snackspace allows members to purchase items from vending machines, membership boxes and tool time in advance. We rely on an external service (Stripe, Inc.) for handling payment processing of top-ups of Snackspace balance, or occasional donations to the space using the Hackspace Management System.
 
-* **Legitimate Interest** – Snackspace transactions are held indefinitely to enable use of paid tools, the purchase of items from vending machines, and purchasing of a member’s box.
+* **Legitimate Interest** – Snackspace transactions are held indefinitely to enable use of paid tools, the purchase of items from vending machines, and purchasing of a members' box.
 
 * **Legal Obligation** - We retain all snackspace transactions for the purposes of accounting. This is required to be retained at least 7 years, as required by HMRC for business tax purposes. This information may be anonymised after 7 years from the transaction’s date, upon a request for account removal.
 
@@ -122,7 +122,7 @@ Wiki Data
 
 The hackspace provides a publicly available wiki which members can use to share information relating to the hackspace or projects.
 
-* **Legitimate Interest** -- Contributions to the Wiki are made at member’s own risk and retained indefinitely to preserve the history of edits. An individuals contribution history may be anonymised and decoupled from their account by requesting an account removal.
+* **Legitimate Interest** -- Contributions to the Wiki are made at members' own risk and retained indefinitely to preserve the history of edits. An individual's contribution history may be anonymised and decoupled from their account by requesting an account removal.
 
 Shared Storage and Shell Access
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
