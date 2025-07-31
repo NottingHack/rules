@@ -9,7 +9,7 @@ From time to time all membership contributions will be reviewed and members may 
 
 Should you bring guests to the Space regularly, please **ensure your membership fees cover their access** and usage of the Hackspace.
 
-When a member stops paying their standing order, they will become an Ex-Member. **An ex member will be provided notification of such**, and **their members box and any project will be relocated** within 2 months of the last standing order payment. Nottingham Hackspace will abide by the Torts (Interference with Goods) Act 1977 when disposing of any ex-member's possessions.
+When a member stops paying their standing order, they will become an Ex-Member. **An ex member will be provided notification of such**, and **their members' box and any project will be relocated** within 2 months of the last standing order payment. Nottingham Hackspace will abide by the Torts (Interference with Goods) Act 1977 when disposing of any ex-member's possessions.
 
 If you decide to no longer be a member, please take your box away with you, or empty your member's box and remove any other possessions first.
 
