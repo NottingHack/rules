@@ -8,6 +8,6 @@ Donating Items to Nottingham Hackspace
 * Do we have space for the item?
 * Does it pose any risks to the space (e.g. highly flammable or risk to health)?
 
-If you still think the item would be worth donation, please post in the most appropriate channel on Discord. Team members and trustees will make the final decision as to whether the item can / should be donated.
+If you still think the item would be worth donating, please post in the most appropriate channel on Discord. Team members and trustees will make the final decision as to whether the item can / should be donated.
 
 Remember that the Hackspace has **limited storage space**. Don’t bring in things without asking or checking.
