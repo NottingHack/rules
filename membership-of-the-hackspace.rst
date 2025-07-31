@@ -15,9 +15,9 @@ If you decide to no longer be a member, please take your box away with you, or e
 
 **Members must follow and agree to all rules**, and membership may be revoked through the complaints policy.
 
-Nottingham Hackspace is required under Companies Act [#]_ to keep a record of the name, and current address of each member. We use the HMS (Hackspace Members System) website [#]_ to keep this information. It is very important, and your legal obligation, that you keep this up-to-date, including your full legal name, postal address and email address [#]_, for contact purposes.
+Nottingham Hackspace is required under Companies Act [#]_ to keep a record of the name, and current address of each member. We use the HMS (Hackspace Management System) website [#]_ to keep this information. It is very important, and your legal obligation, that you keep this up-to-date, including your full legal name, postal address and email address [#]_, for contact purposes.
 
 
 .. [#] Companies Act 2006 http://www.legislation.gov.uk/ukpga/2006/46/contents
-.. [#] Hackspace Members System https://hms.nottinghack.org.uk/
+.. [#] Hackspace Management System https://hms.nottinghack.org.uk/
 .. [#] Some email providers have prolific spam filters which are triggered by the word “hack” and AOL is known to bounce all our email due to the word “Hack”
