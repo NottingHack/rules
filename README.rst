@@ -6,7 +6,7 @@ Nottingham Hackspace Rules
 
 http://rules.nottinghack.org.uk
 
-These are the the rules for the Nottingham Hackspace.
+These are the rules for the Nottingham Hackspace.
 
 
 Contributing
@@ -31,9 +31,9 @@ To do this you can make use of Github's tooling if you're not comfortable with w
 
 You can then work on that in your browser (or your editor of choice) to make the changes you want and commit them to your fork.  You can edit in browser by clicking on the file you wish to change and clicking on the edit icon (pencil) in the top right hand corner. Then, look for the area titled "Commit changes". Fill in the boxes with a meaningful comment about your change. Small changes and lots of commits are better than a single commit with a rewrite of the whole page.
 
-Now you can then open a pull request to the main repository - on the front page of your fork click the green 'New pull request' button, this will show a list of changes between your copy the main repository. Click the green 'Create pull request' button, add a suitable comment and click the green 'Create pull request'.
+Now you can then open a pull request to the main repository - on the front page of your fork click the green 'New pull request' button, this will show a list of changes between your copy and the main repository. Click the green 'Create pull request' button, add a suitable comment and click the green 'Create pull request'.
 
-Please keep each pull request fairly small - it should be one chanege to the rules.  It is fine for it to span multiple rules, but should be all-or-nothing changes.
+Please keep each pull request fairly small - it should be one change to the rules.  It is fine for it to span multiple rules, but should be all-or-nothing changes.
 
 
 Workflow for making suggestions
