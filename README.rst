@@ -6,7 +6,7 @@ Nottingham Hackspace Rules
 
 http://rules.nottinghack.org.uk
 
-These are the the rules for the Nottingham Hackspace.
+These are the rules for the Nottingham Hackspace.
 
 
 Contributing
