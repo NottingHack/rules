@@ -3,8 +3,6 @@ Rule 0: Do Not Be On Fire
 
 It is essential you use the Space safely as a responsible adult.
 
-Open flames are not permitted within the space, and are not covered by our insurance.
-
 We encourage members to challenge **unsafe storage** by other members. If you do not feel comfortable challenging a member, we welcome emails to the trustees@nottinghack.org.uk email address.
 
 Wearing **safety gear** at the Hackspace is your own responsibility. We will provide appropriate Personal Protective Equipment (PPE), and we ask if you notice any low supplies please email trustees@nottinghack.org.uk.
@@ -12,8 +10,6 @@ Wearing **safety gear** at the Hackspace is your own responsibility. We will pro
 We encourage the **safe use of tools**. For tools requiring an induction the inductor will verify that you have undertaken an induction in line with the requirements for that specific tool. Use of a tool requiring an induction is expressly forbidden unless there is a record of your induction; where possible this will be maintained on HMS and via RFID access. Usage of any tool self certifies that you are comfortable using the tool.
 
 It is a member's obligation to **allow proper cooldown of their tools**. Tools that get hot should remain attended until they are cool enough to be touched. There is a **specific provision around welding tools**, which must be monitored for a full hour after use.
-
-**Portable heaters are prohibited** in the Hackspace.
 
 Nottingham Hackspace abides by **The Health & Safety at Work Act**, and points out that you also have responsibilities under this legislation, such as taking reasonable care of others’ safety when operating tools and machinery.
 
