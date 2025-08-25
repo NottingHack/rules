@@ -1,4 +1,4 @@
-Rule 6: UK Legislation
+Rule 6: Prohibited Activities
 ==============
 
 Whilst in the Hackspace you must abide by all applicable UK laws and legislation.  This includes, but is not limited to:
