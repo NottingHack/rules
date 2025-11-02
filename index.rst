@@ -10,13 +10,13 @@ Welcome to the Nottingham Hackspace Rules. This contains the rules which every m
 
 There are nine core rules,
 
-- Rule 0: `Do Not Be On Fire <do-not-be-on-fire.html>`_
+- Rule 0: `Do Not Be Unsafe <do-not-be-on-fire.html>`_
 - Rule 1: `Membership of the Hackspace <membership-of-the-hackspace.html>`_
 - Rule 2: `Guests & Visitors <guests-and-visitors.html>`_
 - Rule 3: `Be Excellent to One Another <be-excellent-to-one-another.html>`_
 - Rule 4: `Respect the Hackspace <respect-the-hackspace.html>`_
 - Rule 5: `Do Not Hack <do-not-hack.html>`_
-- Rule 6: `UK Legislation <uk-legislation.html>`_
+- Rule 6: `Prohibited Activities <uk-legislation.html>`_
 - Rule 7: `Storage in the Hackspace <storage-in-the-hackspace.html>`_
 - Rule 8: `Donating Items to Nottingham Hackspace <donating-to-nottingham-hackspace.html>`_
 
@@ -40,13 +40,13 @@ Contributions to the rules are welcome. There are instructions on how to do this
     :maxdepth: 2
 
     Definitions <definitions>
-    Rule 0. Do Not Be On Fire <do-not-be-on-fire>
+    Rule 0. Do Not Be Unsafe <do-not-be-on-fire>
     Rule 1. Membership of the Hackspace <membership-of-the-hackspace>
     Rule 2. Guests & Visitors <guests-and-visitors>
     Rule 3. Be Excellent to One Another <be-excellent-to-one-another>
     Rule 4. Respect the Hackspace <respect-the-hackspace>
     Rule 5. Do Not Hack <do-not-hack>
-    Rule 6. UK Legislation <uk-legislation>
+    Rule 6. Prohibited Activities <uk-legislation>
     Rule 7. Storage in the Hackspace <storage-in-the-hackspace>
     Rule 8. Donating Items to Nottingham Hackspace <donating-to-nottingham-hackspace>
     Appendix A: Complaints Policy <complaints-policy>
