@@ -26,6 +26,7 @@ Additionally, there are four appendices,
 - Appendix B: `SafeSpaces Policy <safespaces.html>`_
 - Appendix C: `Discord Policy <discord.html>`_
 - Appendix D: `GDPR and Privacy Policy <privacy.html>`_
+- Appendix F: `Health and Safety Policy <hse.html>`_
 
 We also maintain a `list of definitions <definitions.html>`_.
 
