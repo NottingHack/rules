@@ -1,4 +1,4 @@
-NOTTINGHAM HACKSPACE HSE PROCEDURE
+Health and Safety Policy
 ==================================
 
 Introduction
@@ -25,24 +25,19 @@ Definitions for this document
 
 NH = Nottingham Hackspace Ltd
 
-“The space” = the physical location of NH (currently at Roden House in
-Nottingham)
+“The space” = the physical location of NH (currently at Roden House in Nottingham)
 
 “The trustees” = the board of trustees responsible for governance of NH
 
-“members” = persons who are currently members of NH (also generally
-includes visitors who are under the supervision of one or members,
-unless stated otherwise).
+“members” = persons who are currently members of NH (also generally includes visitors who are under the supervision of one or members, unless stated otherwise).
 
-“the landlord” = the organisation (BizSpace) from whom NH rents the
-space at Roden House
+“the landlord” = the organisation (BizSpace) from whom NH rents the space at Roden House
 
 PAT testing = portable appliance testing... testing
 
 RAMS = risk assessment method statement
 
-Teams = groups of members who volunteer on behalf of NH to maintain
-specific areas of the space
+Teams = groups of members who volunteer on behalf of NH to maintain specific areas of the space
 
 References
 ----------
@@ -58,8 +53,6 @@ References
 (7) Constitution: https://wiki.nottinghack.org.uk/wiki/Constitution
 (8) Dynamic risk assessment:
     https://www.chas.co.uk/blog/what-is-a-dynamic-risk-assessment/
-(9) Google form for walkabout inspection – draft:
-    https://docs.google.com/forms/d/e/1FAIpQLSf4YtLO8mHLyYijsJwc6Ubo-QpjnwNkEeoD0aEfjOSC8JB2ew/viewform?usp=header
 
 Assumptions
 ===========
@@ -112,21 +105,12 @@ RFID card) and cannot be used without mandatory training. Most tools are
 not induction controlled, but those that are controlled may be subject
 to induction for one or more of the following reasons:
 
--  The tool is particularly hazardous to the user, with a high
-      likelihood of serious injury.
-
--  The tool can be hazardous to non-users, such as tool that could cause
-      a fire if used improperly.
-
+-  The tool is particularly hazardous to the user, with a high likelihood of serious injury.
+-  The tool can be hazardous to non-users, such as tool that could cause a fire if used improperly.
 -  The tool itself may be damaged if used incorrectly.
 
 Evidently, the latter is not a safety-related reason.
 
-**RECOMMENDATION**: currently, the reason for a tool being restricted in
-this way is not well recorded. Where safety is the reason, this should
-be recorded and the safety aspects of the induction should be documented
-clearly and publicly, and ideally there should be a defined process by
-which a tool is included or excluded.
 
 Accident and near-miss reporting
 --------------------------------
@@ -137,13 +121,6 @@ form submits information to the trustees, and actions may be taken
 accordingly (such as repairing a dangerous item, contacting an
 individual member, etc.).
 
-**RECOMMENDATION**: the accident report data is not currently
-transparent. It could be useful to make it more public to help with
-awareness, feedback and engagement, with permission/anonymisation as
-needed. Examples: highlight when accidents have occurred to raise
-awareness of hazards; show that reports have resulted in beneficial
-changes; improve the quality of preventative action by gathering
-recommendations from the membership.
 
 PAT testing
 -----------
@@ -173,16 +150,8 @@ Lone working
 ------------
 
 There is no practical means to prevent individuals from working alone at
-the space. In line with `(1) <#anchor>`__ and `(2) <#anchor-1>`__,
-members are expected to exercise good judgement if they are in space by
-themselves, although there are currently no specific guidelines
-regarding lone working.
-
-**RECOMMENDATION**: provide guidance and policy regarding lone working.
-For example, communicate with a nominated “buddy” to check you are OK,
-and refrain from using tools that have the potential to cause serious
-injury or fire. We can’t enforce this but we can at least prompt people
-to stop and think.
+the space. The space provides a `Lone Working Policy <lone-working.html>` to
+encourage necessary precautions are taken while lone working.
 
 Maintenance
 -----------
@@ -204,14 +173,9 @@ repairs. The types of activities undertaken are determined based on need
 at the time ad availability of members to assist but typically address
 safety issues:
 
--  General cleaning and tidying, to ensure walkways are clear of trip
-      and slip hazards
-
--  Removal of unused/abandoned material and emptying bins to remove fire
-      hazards
-
--  Inspection of tools and consumables to remove defective items (e.g.,
-      throwing away broken or blunt tools)
+-  General cleaning and tidying, to ensure walkways are clear of trip and slip hazards
+-  Removal of unused/abandoned material and emptying bins to remove fire hazards
+-  Inspection of tools and consumables to remove defective items (e.g., throwing away broken or blunt tools)
 
 Fire safety
 ===========
@@ -230,23 +194,12 @@ exit routes through communal areas.
 
 NH is responsible for the following:
 
--  Assessing fire risks within the space and ensuring that they are
-      adequately controlled
-
+-  Assessing fire risks within the space and ensuring that they are adequately controlled
 -  Maintaining any fire safety equipment within the space
-
--  Confirming that the landlord is maintaining the communal areas areas
-      and associated fire safety equipment (such as fire alarms
-      throughout the building, escape routes, emergency lights, signs,
-      fire doors, etc.).
+-  Confirming that the landlord is maintaining the communal areas areas and associated fire safety equipment (such as fire alarms throughout the building, escape routes, emergency lights, signs, fire doors, etc.).
 
 Record-keeping
 --------------
-
-**RECOMMENDATION:** NH needs a specific and robust way to store
-information related to fire safety, which would constitute the fire
-safety logbook (this could potentially be be the NH wiki, a network
-drive or similar). Alternatively, a paper logbook could be used.
 
 The following are to be stored in (or copied to) the fire safety
 logbook:
@@ -293,11 +246,8 @@ Communication and training
 --------------------------
 
 -  How to raise the alarm
-
 -  Where fire escapes are located
-
 -  What to do if trapped
-
 -  How and when to use fire-fighting equipment
 
 Any changes to equipment, layout or guidance could be communicated
@@ -316,21 +266,13 @@ it is only an assessment of the current situation.
 
 How a risk assessment should work:
 
-1. Define scope of assessment (e.g., an area, activity, piece of
-      equipment), including any existing controls that are already in
-      place.
+1. Define scope of assessment (e.g., an area, activity, piece of equipment), including any existing controls that are already in place.
 
-2. Identify hazards that are within the scope of the assessment, rate
-      based on the existing controls.
+2. Identify hazards that are within the scope of the assessment, rate based on the existing controls.
 
-3. Determine where risk is unacceptable and identify additional controls
-      to reduce the risk to a reasonable level. The additional controls
-      are actions taken by the Hackspace, not actions on a person who is
-      at risk – the risk assessment is not a procedure. If a procedure
-      is required, the action is to generate a procedure.
+3. Determine where risk is unacceptable and identify additional controls to reduce the risk to a reasonable level. The additional controls are actions taken by the Hackspace, not actions on a person who is at risk – the risk assessment is not a procedure. If a procedure is required, the action is to generate a procedure.
 
-4. Implement the additional controls that have been identified and
-      record that they are implemented.
+4. Implement the additional controls that have been identified and record that they are implemented.
 
 How it often ends up:
 
@@ -493,40 +435,37 @@ resulting in an updated risk assessment, this might not be implemented
 for a woodworking bandsaw). The steps below provide guidance on
 generating a risk assessment:
 
-1. Confirm that the equipment, area or material is not (or could not be)
-      already covered by an existing assessment. If possible, add it to
-      the scope of an existing risk assessment.
+1. Confirm that the equipment, area or material is not (or could not be) already covered by an existing assessment. If possible, add it to the scope of an existing risk assessment.
 
-   a. *Example: a new power tool is obtained for woodworking. The
-         workshop area risk assessment includes generic hazards that
-         pertain to power tools but does not name this type of tool.
-         However, this tool does not have any unique hazards and so can
-         be included. Update the existing RA rather than creating a new
-         one.*
+   a. *Example: a new power tool is obtained for woodworking. The workshop area risk
+   assessment includes generic hazards that pertain to power tools but does not name this type of tool.
+   However, this tool does not have any unique hazards and so can
+   be included. Update the existing RA rather than creating a new
+   one.*
 
-2. Identify a suitable scope in which to include the new item – ideally,
-      be as generic as possible by including other items that have
-      similar hazards. Ensure that the scope and limitations are clearly
-      stated.
+2. Identify a suitable scope in which to include the new item – ideally, 
+   be as generic as possible by including other items that have
+   similar hazards. Ensure that the scope and limitations are clearly
+   stated.
 
-   a. Example: a single risk assessment could cover 3D printing using
-         any model of FDM printer using non-hazardous materials. The
-         scope can explicitly state that all FDM printers are included
-         but that materials that produce harmful fumes are excluded.
-         This does not mean that such materials are banned, but that a
-         separate assessment would be needed to use them.
+   a. *Example: a single risk assessment could cover 3D printing using
+      any model of FDM printer using non-hazardous materials. The
+      scope can explicitly state that all FDM printers are included
+      but that materials that produce harmful fumes are excluded.
+      This does not mean that such materials are banned, but that a
+      separate assessment would be needed to use them.*
 
 3. Identify tasks that are within scope, including preparing, tidying
-      and any foreseeable maintenance/setup. Again, avoid being
-      over-specific to ensure conciseness.
+   and any foreseeable maintenance/setup. Again, avoid being
+   over-specific to ensure conciseness.
 
 4. Consider all hazards that may arise during that task and assess
-      existing mitigations, likelihood and severity of each of them.
+   existing mitigations, likelihood and severity of each of them.
 
 5. Based on the risk matrix, score each hazard
 
 ======== ===========================================
-|image1| 1-2 = no action required
+|img/risk-assessment-matrix.png| 1-2 = no action required
          
          3-5 = address if possible
          
@@ -549,10 +488,6 @@ trustees. Overdue actions should be followed up and appropriate action
 taken (either to set a more realistic date, reassign to someone else,
 change to a more achievable action or to call a stop on the activity
 until the action is resolved in extreme cases).
-
-**RECOMMENDATION**: headline numbers for safety actions should be
-reported regularly (e.g. at the monthly members’ meeting) - total
-actions open, number of new actions this month, number closed, etc.
 
 Area risk assessments
 ~~~~~~~~~~~~~~~~~~~~~
@@ -581,9 +516,7 @@ typically requires multiple tools and takes place across multiple areas.
 COSHH assessments
 ~~~~~~~~~~~~~~~~~
 
-Nightmare
 
-Best efforts – signage and cabinets
 
 RAMS
 ----
@@ -659,64 +592,59 @@ Walkabout inspections
 ---------------------
 
 Walkabout inspections are to be performed once a fortnight by a trustee
-or member of the safety team. The inspection uses a google form
-`(9) <#anchor-7>`__ and automatically stores the outcome of each
-inspection.
+or member of the safety team. The inspection uses a google form and
+automatically stores the outcome of each inspection.
 
 **Red items are required by the fire log book**
 
 WEEKLY:
 
 -  Check PPE dispensers. Record if consumables are replenished (e.g.,
-      ear plugs). Record if reusable items are missing (e.g., ear
-      defenders).
+   ear plugs). Record if reusable items are missing (e.g., ear
+   defenders).
 
 -  Check 1\ :sup:`st` aid kits are in their nominal locations.
 
 -  Check all walkways are clear of obstruction. Clear and record minor
-      obstructions if practical to do so, report any remaining
-      obstructions.
+   obstructions if practical to do so, report any remaining
+   obstructions.
 
 -  Check all floors are clear of dust and other slip hazards.
 
 -  Test all fire exit mechanisms and confirm signs are present
 
 -  Check the battery charging area is clear of combustible material,
-      disconnect batteries if fully charged
+   disconnect batteries if fully charged
 
 MONTHLY
 
 -  Open all 1\ :sup:`st` aid kits and check quantities and expiry dates,
-      replenish as required and record
+   replenish as required and record
 
    -  <List of 1\ :sup:`st` aid locations and contents of each>
 
 -  Check for large/heavy items that are placed on high or otherwise
-      unsuitable shelves
+   unsuitable shelves
 
 -  Confirm (e.g., via the members meeting) that someone from each team
-      has visited the space and performed a visual inspection of
-      tools/equipment/facilities
+   has visited the space and performed a visual inspection of
+   tools/equipment/facilities
 
 -  Sweep for PAT test stickers that are (over)due for renewal or missing
-      and test as required
+   and test as required
 
 -  Check for battery-powered tools that are damaged, leaking, etc
 
 -  Inspect fire extinguishing equipment (maintenance labels, pressures,
-      tags, visible damage)
+   tags, visible damage)
 
 -  Inspect storage areas for excessive quantities of flammable material
-      (especially cardboard)
+   (especially cardboard)
 
-?? ANNUALLY ??
+ANNUALLY
 
 -  Inspection/test regime for emergency lighting
 
 -  Inspection regime for all NH fire doors
 
 -  Full space fire risk assessment
-
-.. |image1| image:: Pictures/10000001000000FF000001003CD9A584.png
-   :width: 6.747cm
-   :height: 6.773cm
