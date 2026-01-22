@@ -1,7 +1,5 @@
-Rule 0: Do Not Be Unsafe
+Rule 0: Do Not Be On Fire or Otherwise Unsafe
 =========================
-a.k.a. Do Not Be On Fire
----------------------------
 
 It is essential you use the Space safely as a responsible adult. Nottingham Hackspace abides by **The Health & Safety at Work Act**, and points out that you also have responsibilities under this legislation, such as taking reasonable care of others’ safety when operating tools and machinery. 
 
