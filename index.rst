@@ -54,3 +54,4 @@ Contributions to the rules are welcome. There are instructions on how to do this
     Appendix B: SafeSpaces Policy <safespaces>
     Appendix C: Discord Policy <discord>
     Appendix D: GDPR and Privacy Policy <privacy>
+    Appendix E: Lone Working Policy <lone-working>
