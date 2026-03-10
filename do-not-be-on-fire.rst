@@ -5,6 +5,8 @@ It is essential you use the Space safely as a responsible adult. Nottingham Hack
 
 We encourage the **safe use of tools**. For tools requiring an induction the inductor will verify that you have undertaken an induction in line with the requirements for that specific tool. Use of a tool requiring an induction is expressly forbidden unless there is a record of your induction; where possible this will be maintained on HMS and via RFID access control. Usage of **any** tool self certifies that you are comfortable using the tool safely. 
 
+**Tools must not be left unattended while in they are in use.** You must be able to respond to hazards posed by the tool quickly and be within reach of its e-stop button (if present). There is a partial exception for 3D Printers - you must remain within the building and check on your print at least every half an hour.
+
 Wearing **safety gear** at the Hackspace is your own responsibility. We will provide appropriate Personal Protective Equipment (PPE), and we ask if you notice any low supplies please email trustees@nottinghack.org.uk.
 
 We encourage members to challenge **unsafe storage** by other members. If you do not feel comfortable challenging a member, we welcome emails to the trustees@nottinghack.org.uk email address.
