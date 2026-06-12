@@ -37,35 +37,6 @@ QUESTION: should above instead be "participant in the space" or "user of the spa
 
 TODO: replace "the trustees" with the board
 
-References
-----------
-
-(1) Membership rules, as stated on this site `Nottingham Hackspace Rules <https://rules.nottinghack.org.uk/en/latest/>`_ 
-(2) Members' guide: https://guide.nottinghack.org.uk/
-(3) Wiki:
-    `https://wiki.nottinghack.org.uk <https://wiki.nottinghack.org.uk/>`__
-(4) Discord server: https://discord.gg/zx8Dc6Y32E
-(5) Hackspace Management System:
-    `https://hms.nottinghack.org.uk <https://hms.nottinghack.org.uk/links>`__
-(6) Accident form: https://forms.gle/q7AvtYG5mPNuJCvh9
-(7) Constitution: https://wiki.nottinghack.org.uk/wiki/Constitution
-(8) Dynamic risk assessment:
-    https://www.chas.co.uk/blog/what-is-a-dynamic-risk-assessment/
-(9) Google form for walkabout inspection – draft:
-    https://docs.google.com/forms/d/e/1FAIpQLSf4YtLO8mHLyYijsJwc6Ubo-QpjnwNkEeoD0aEfjOSC8JB2ew/viewform?usp=header
-
-.. [rules] Membership rules, as stated on this site `Nottingham Hackspace Rules <https://rules.nottinghack.org.uk/en/latest/>`_ 
-.. [guide] The members' guide: `<https://guide.nottinghack.org.uk/>`_
-.. [wiki] The hackspace wiki `<https://wiki.nottinghack.org.uk/>`_
-.. [discord] The hackspace discord `<https://discord.gg/zx8Dc6Y32E>`_
-.. [hms] The Hackspace Management System `https://hms.nottinghack.org.uk <https://hms.nottinghack.org.uk/links>`_
-.. [accidents] The accident form: `<https://forms.gle/q7AvtYG5mPNuJCvh9>`_
-.. [constitution] The Hackspace's constitution `<https://wiki.nottinghack.org.uk/wiki/Constitution>`_
-.. [dras] What is a dynamic risk assessment? `<https://www.chas.co.uk/blog/what-is-a-dynamic-risk-assessment/>`_
-.. [walkabouts] DRAFT Google form for walkabout inspection `<https://docs.google.com/forms/d/e/1FAIpQLSf4YtLO8mHLyYijsJwc6Ubo-QpjnwNkEeoD0aEfjOSC8JB2ew/viewform?usp=header>`_
-
-
-
 Assumptions
 ===========
 
@@ -350,9 +321,9 @@ Risk assessments are needed to cover all foreseeable activities that take place 
 The steps below provide guidance on generating a risk assessment:
 
     1. Confirm that the equipment, area or material is not (or could not be) already covered by an existing assessment. If possible, add it to the scope of an existing risk assessment.
-        a. *Example: a new power tool is obtained for woodworking. The workshop area risk assessment includes generic hazards that pertain to power tools but does not name this type of tool. However, this tool does not have any unique hazards and so can be included. Update the existing RA rather than creating a new one.*
+        *Example: a new power tool is obtained for woodworking. The workshop area risk assessment includes generic hazards that pertain to power tools but does not name this type of tool. However, this tool does not have any unique hazards and so can be included. Update the existing RA rather than creating a new one.*
     2. Identify a suitable scope in which to include the new item – ideally, be as generic as possible by including other items that have similar hazards. Ensure that the scope and limitations are clearly stated.
-        a. *Example: a single risk assessment could cover 3D printing using any model of FDM printer using non-hazardous materials. The scope can explicitly state that all FDM printers are included but that materials that produce harmful fumes are excluded. This does not mean that such materials are banned, but that a separate assessment would be needed to use them.*
+        *Example: a single risk assessment could cover 3D printing using any model of FDM printer using non-hazardous materials. The scope can explicitly state that all FDM printers are included but that materials that produce harmful fumes are excluded. This does not mean that such materials are banned, but that a separate assessment would be needed to use them.*
     3. Identify tasks that are within scope, including preparing, tidying and any foreseeable maintenance/setup. Again, avoid being over-specific to ensure conciseness.
     4. Consider all hazards that may arise during that task and assess existing mitigations, likelihood and severity of each of them.
     5. Based on the risk matrix, score each hazard
@@ -474,3 +445,16 @@ MONTHLY:
 .. |risk_matrix| image:: risk_matrix.png
    :width: 6.747cm
    :height: 6.773cm
+
+References
+----------
+
+.. [rules] Membership rules, as stated on this site `Nottingham Hackspace Rules <https://rules.nottinghack.org.uk/en/latest/>`_ 
+.. [guide] The members' guide: `<https://guide.nottinghack.org.uk/>`_
+.. [wiki] The hackspace wiki `<https://wiki.nottinghack.org.uk/>`_
+.. [discord] The hackspace discord `<https://discord.gg/zx8Dc6Y32E>`_
+.. [hms] The Hackspace Management System `https://hms.nottinghack.org.uk <https://hms.nottinghack.org.uk/links>`_
+.. [accidents] The accident form: `<https://forms.gle/q7AvtYG5mPNuJCvh9>`_
+.. [constitution] The Hackspace's constitution `<https://wiki.nottinghack.org.uk/wiki/Constitution>`_
+.. [dras] What is a dynamic risk assessment? `<https://www.chas.co.uk/blog/what-is-a-dynamic-risk-assessment/>`_
+.. [walkabouts] DRAFT Google form for walkabout inspection `<https://docs.google.com/forms/d/e/1FAIpQLSf4YtLO8mHLyYijsJwc6Ubo-QpjnwNkEeoD0aEfjOSC8JB2ew/viewform?usp=header>`_
