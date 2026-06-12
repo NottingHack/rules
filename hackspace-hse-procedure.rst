@@ -357,21 +357,20 @@ The steps below provide guidance on generating a risk assessment:
     4. Consider all hazards that may arise during that task and assess existing mitigations, likelihood and severity of each of them.
     5. Based on the risk matrix, score each hazard
 
-TODO: find images
+.. _risk_matrix:
+============= ===========================================
+|risk_matrix| 1-2 = no action required
+         
+              3-5 = address if possible
+         
+              6+ = action required
+         
+              11+ = task prohibited until action complete
+============= ===========================================
 
-======== ===========================================
-|image1| 1-2 = no action required
-         
-         3-5 = address if possible
-         
-         6+ = action required
-         
-         11+ = task prohibited until action complete
-======== ===========================================
-
-    1. Generate additional mitigations according to the risk matrix
-    2. Repeat for all tasks
-    3. Collate all actions and assign owners and due dates
+    6. Generate additional mitigations according to the risk matrix
+    7. Repeat for all tasks
+    8. Collate all actions and assign owners and due dates
 
 Open actions
 ~~~~~~~~~~~~
@@ -472,6 +471,6 @@ MONTHLY:
     - Inspection regime for all NH fire doors
     - Full space fire risk assessment
 
-.. |image1| image:: Pictures/10000001000000FF000001003CD9A584.png
+.. |risk_matrix| image:: risk_matrix.png
    :width: 6.747cm
    :height: 6.773cm
