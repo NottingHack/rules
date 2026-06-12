@@ -1,5 +1,5 @@
-HSE Procedure
-=============
+Appendix F: HSE Procedure
+=========================
 
 ======= ======== ========= ======== ====================================
 Version Date     Author    Reviewer Description
