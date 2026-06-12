@@ -20,13 +20,14 @@ There are nine core rules,
 - Rule 7: `Storage in the Hackspace <storage-in-the-hackspace.html>`_
 - Rule 8: `Donating Items to Nottingham Hackspace <donating-to-nottingham-hackspace.html>`_
 
-Additionally, there are four appendices,
+Additionally, there are six appendices,
 
 - Appendix A: `Complaints Policy <complaints-policy.html>`_
 - Appendix B: `SafeSpaces Policy <safespaces.html>`_
 - Appendix C: `Discord Policy <discord.html>`_
 - Appendix D: `GDPR and Privacy Policy <privacy.html>`_
 - Appendix E: `Lone Working Policy <lone-working.html>`_
+- Appendix F: `HSE Procedure <hackspace-hse-procedure.html>`_
 
 We also maintain a `list of definitions <definitions.html>`_.
 
@@ -55,3 +56,4 @@ Contributions to the rules are welcome. There are instructions on how to do this
     Appendix C: Discord Policy <discord>
     Appendix D: GDPR and Privacy Policy <privacy>
     Appendix E: Lone Working Policy <lone-working>
+    Appendix F: HSE Procedure <hackspace-hse-procedure>
