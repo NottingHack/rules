@@ -29,26 +29,19 @@ are not included in this document.
 Definitions for this document
 -----------------------------
 
-NH = Nottingham Hackspace Ltd
+As well as those in `definitions <definitions.html>`_, this document uses some additional definitions and abbreviations.
 
-“The space” = the physical location of NH (currently at Roden House in
-Nottingham)
+* **NH** abbreviates Nottingham Hackspace Ltd
+* **The landlord** refers to the organisation (currently BizSpace) from whom NH rents the space
+* **PAT testing** abbreviates Portable Appliance Testing testing
+* **RAMS** abbreviates Risk Assessment Method Statement
+* **Teams** are groups of members who volunteer on behalf of NH to maintain specific areas of the space.
 
-“The trustees” = the board of trustees responsible for governance of NH
+In this document, "member" refers to any person currently a member of Nottingham Hackspace as defined in section 2 of the Articles AND guests AND visitors.
 
-“members” = persons who are currently members of NH (also generally
-includes visitors who are under the supervision of one or members,
-unless stated otherwise).
+QUESTION: should above instead be "participant in the space" or "user of the space"? (needs bikeshedding)
 
-“the landlord” = the organisation (BizSpace) from whom NH rents the
-space at Roden House
-
-PAT testing = portable appliance testing... testing
-
-RAMS = risk assessment method statement
-
-Teams = groups of members who volunteer on behalf of NH to maintain
-specific areas of the space
+TO DO: replace "the trustees" with the board
 
 References
 ----------
