@@ -41,12 +41,12 @@ In this document, "member" refers to any person currently a member of Nottingham
 
 QUESTION: should above instead be "participant in the space" or "user of the space"? (needs bikeshedding)
 
-TO DO: replace "the trustees" with the board
+TODO: replace "the trustees" with the board
 
 References
 ----------
 
-(1) Membership rules: https://rules.nottinghack.org.uk/en/latest/
+(1) Membership rules, as stated on this site `Nottingham Hackspace Rules <https://rules.nottinghack.org.uk/en/latest/>`_ 
 (2) Members' guide: https://guide.nottinghack.org.uk/
 (3) Wiki:
     `https://wiki.nottinghack.org.uk <https://wiki.nottinghack.org.uk/>`__
@@ -60,6 +60,18 @@ References
 (9) Google form for walkabout inspection – draft:
     https://docs.google.com/forms/d/e/1FAIpQLSf4YtLO8mHLyYijsJwc6Ubo-QpjnwNkEeoD0aEfjOSC8JB2ew/viewform?usp=header
 
+.. [rules] Membership rules, as stated on this site `Nottingham Hackspace Rules <https://rules.nottinghack.org.uk/en/latest/>`_ 
+.. [guide] The members' guide: `<https://guide.nottinghack.org.uk/>`_
+.. [wiki] The hackspace wiki `<https://wiki.nottinghack.org.uk/>`_
+.. [discord] The hackspace discord `<https://discord.gg/zx8Dc6Y32E>`_
+.. [hms] The Hackspace Management System `https://hms.nottinghack.org.uk <https://hms.nottinghack.org.uk/links>`_
+.. [accidents] The accident form: `<https://forms.gle/q7AvtYG5mPNuJCvh9>`_
+.. [constitution] The Hackspace's constitution `<https://wiki.nottinghack.org.uk/wiki/Constitution>`_
+.. [dras] What is a dynamic risk assessment? `<https://www.chas.co.uk/blog/what-is-a-dynamic-risk-assessment/>`_
+.. [walkabouts] DRAFT Google form for walkabout inspection `<https://docs.google.com/forms/d/e/1FAIpQLSf4YtLO8mHLyYijsJwc6Ubo-QpjnwNkEeoD0aEfjOSC8JB2ew/viewform?usp=header>`_
+
+
+
 Assumptions
 ===========
 
@@ -68,7 +80,7 @@ reasonably be assumed to be in place at NH, on the basis of the
 membership rules, fabric of the building in which the Hackspace is
 located, and common practice (which may not be robustly documented but
 is verifiable through informal record-keeping such as
-`(3) <#anchor-2>`__ and `(4) <#anchor-3>`__).
+[wiki]_ and [discord]_.
 
 Member competence
 -----------------
@@ -76,7 +88,7 @@ Member competence
 NH does not, in general, provide training to members (with the exception
 of tool inductions – see `2.3 <#anchor-8>`__ ), nor are members subject
 to direct supervision. A condition of membership is acceptance of the
-membership rules `(1) <#anchor>`__, which place responsibility for
+membership rules [rules]_, which place responsibility for
 safety on individual members; those who are found to have violated this
 requirement are subject to temporary or permanent exclusion. Entry to
 the property is controlled by electronic doors (requiring a personal
@@ -86,8 +98,8 @@ demonstrated an unwillingness or inability to use the space and
 equipment within it safely, cannot gain access.
 
 To facilitate the safe use of equipment, NH has various online resources
-such as `(2) <#anchor-1>`__, `(3) <#anchor-2>`__ and
-`(4) <#anchor-3>`__, which act as a repository of knowledge, including
+such as [guide]_, [wiki]_ and
+[discord]_, which act as a repository of knowledge, including
 user manuals, and allow members to seek advice from those with more
 experience.
 
@@ -131,7 +143,7 @@ Accident and near-miss reporting
 --------------------------------
 
 In order to monitor safety-related incidents in the space, an online
-form `(6) <#anchor-5>`__ is provided for members to make reports. This
+form [accidents]_ is provided for members to make reports. This
 form submits information to the trustees, and actions may be taken
 accordingly (such as repairing a dangerous item, contacting an
 individual member, etc.).
@@ -172,7 +184,7 @@ Lone working
 ------------
 
 There is no practical means to prevent individuals from working alone at
-the space. In line with `(1) <#anchor>`__ and `(2) <#anchor-1>`__,
+the space. In line with [rules]_ and [guide]_,
 members are expected to exercise good judgement if they are in space by
 themselves, although there are currently no specific guidelines
 regarding lone working.
@@ -191,8 +203,8 @@ risk hazards. This is partly mitigated by the expectation of user
 competence and the availability of user manuals, and in addition by the
 presence of member teams who take specific responsibility for areas or
 types of equipment. Members are encouraged to report suspected or known
-faulty equipment both informally on Discord `(4) <#anchor-3>`__ and
-formally through the HMS “broken tools” form via `(5) <#anchor-4>`__.
+faulty equipment both informally on Discord [discord]_ and
+formally through the HMS “broken tools” form via [hms]_.
 
 Housekeeping
 ------------
@@ -254,8 +266,8 @@ logbook:
       it, and any updates made that result from reinspection or changes
       to the space.
 
--  The results of the regular walkabout inspections (
-      `5.4 <#anchor-9>`__ )
+-  The results of the regular walkabout inspections
+      [walkabouts]_
 
 -  Testing, inspection and maintenance of fire-safety equipment
 
@@ -285,7 +297,7 @@ Fire-fighting equipment
 
 Portable fire extinguishers are located at various locations within the
 space. Inspection and maintenance of these is part of the regular safety
-walkabout (`13 <#anchor-9>`__).
+walkabout [walkabouts]_.
 
 Is there a fire blanket in the kitchen?
 
@@ -616,7 +628,7 @@ As far as possible, activities should be covered by pre-prepared written
 risk assessments. However, it is the nature of the varied activities and
 membership of NH that many activities are not foreseeable, and in many
 cases will be performed as a “one off” task (for example, moving a heavy
-piece of material). Dynamic risk assessments `(8) <#anchor-6>`__ are a
+piece of material). Dynamic risk assessments [dras]_ are a
 way to encourage (in the case of NH) members to stop and think about
 risks in a structured manner before undertaking an unfamiliar task, and
 to plan hazardous tasks in a more careful manner, without necessarily
@@ -667,8 +679,7 @@ Walkabout inspections
 ---------------------
 
 Walkabout inspections are to be performed once a fortnight by a trustee
-or member of the safety team. The inspection uses a google form
-`(9) <#anchor-7>`__ and automatically stores the outcome of each
+or member of the safety team. The inspection uses a google form [walkabouts]_ and automatically stores the outcome of each
 inspection.
 
 **Red items are required by the fire log book**
