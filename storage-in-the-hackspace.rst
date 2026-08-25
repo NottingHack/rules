@@ -7,6 +7,7 @@ Members are entitled to a **35l storage box**, which can be purchased through HM
 
 - Lithium cells / batteries, due to fire risk
 - Unprotected sharps, due to risk of injury when dealing with ex-members boxes
+- Solvents and flammable liquids, because they should only be stored in solvents cabinets
 
 If you are working on a project that is too large for a 35l box you can store it on the Large Project Shelves. It can be stored there whilst it is actively being worked on, and must always be labelled according to our **Do Not Hack** rules. If a project has not been worked on for more than three months, you may be contacted and asked to remove the project. Abandoned and unlabelled items may be disposed of without notice.
 
